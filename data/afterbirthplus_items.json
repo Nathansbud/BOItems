@@ -1,0 +1,1567 @@
+{
+  "Dark Princes Crown": {
+    "name": "Dark Princes Crown",
+    "pickup": "\"Loss is power\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Devil Room, Curse Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Delirium as Azazel.",
+    "description": [
+      "A crown appears above your head and while at exactly 1 full red heart of health, you gain a +1.5 Range Up, +0.7 Tears Up and +0.20 Shot Speed Up",
+      "Any time your health changes to be not exactly 1 red heart you lose the effect",
+      "This item does nothing with The Lost",
+      "Similar to other Tears Up (not Tear Delay) items, if you are already at the soft tear rate cap this item does not give you a tears up.\n      "
+    ]
+  },
+  "Apple!": {
+    "name": "Apple!",
+    "pickup": "\"Trick or treat?\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Gives you a random chance to fire a razor blade which deals 400% damage instead of your normal tears",
+      "+0.3 Tears Up.",
+      "This item also turns your tears red, but does not change your actual damage stat or the damage your normal tears do",
+      "The chance to fire a razor blade depends on your luck stat, and at +14 luck you will fire a razor blade every time"
+    ]
+  },
+  "Lead Pencil": {
+    "name": "Lead Pencil",
+    "pickup": "\"Hes a bleeder!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "With every 15 tears fired, Isaac will fire a cluster of tears instead of your normal tear",
+      "Causes your normal tears to fire out of one eye, which means tears will fire in a near-perfect line instead of slightly off-center.",
+      "Each of the tears in the cluster deals double damage"
+    ]
+  },
+  "Dog Tooth": {
+    "name": "Dog Tooth",
+    "pickup": "\"Bark at the moon!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "+0.3 Damage Up",
+      "+0.1 Speed Up",
+      "When entering a room connected to a Secret Room or Super Secret Room, a howling sound will play",
+      "When entering a room with a crawl space trapdoor in it, a barking sound will play"
+    ]
+  },
+  "Dead Tooth": {
+    "name": "Dead Tooth",
+    "pickup": "\"Halitosis\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "While firing, you gain a green aura that poisons any enemies which touch it",
+      "Has no effect on Lilith, as she cannot fire tears"
+    ]
+  },
+  "Linger Bean": {
+    "name": "Linger Bean",
+    "pickup": "\"Crying makes me toot\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Beggar"
+    ],
+    "description": [
+      "While firing tears, you have a small chance to spawn a poop cloud, which deals periodic damage to any enemies which come near it",
+      "The cloud can be pushed slightly by firing tears at it"
+    ]
+  },
+  "Shard of Glass": {
+    "name": "Shard of Glass",
+    "pickup": "\"Blood and guts!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Upon taking damage, this item gives a chance to drop a full red heart, gain 5 range, and leave a trail of damaging red creep for the current room."
+    ]
+  },
+  "Metal Plate": {
+    "name": "Metal Plate",
+    "pickup": "\"It itches...\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "+1 Soul Heart",
+      "Enemy bullets have a chance to be deflected back at the enemy, which will hurt them and apply the concussive status effect, causing it to be stunned for a few seconds"
+    ]
+  },
+  "Eye of Greed": {
+    "name": "Eye of Greed",
+    "pickup": "\"Gold tears!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Secret Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Greedier Mode with Keeper.",
+    "description": [
+      "Every 20th tear fired will also fire a golden coin tear at the same time. This tear turns enemies to gold for a few seconds and causes them to drop 1-4 coins if killed while golden (similar to the Midas' Touch item)",
+      "When the Midas Touch tear effect triggers, it will remove 1 coin from your current total",
+      "The golden tear deals double your tear damage",
+      "The effect can still trigger even if you have no held coins"
+    ]
+  },
+  "Tarot Cloth": {
+    "name": "Tarot Cloth",
+    "pickup": "\"I see the future\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Shop, Curse Room"
+    ],
+    "description": [
+      "Drops a random card or rune on pickup",
+      "Doubles the effect of certain tarot cards",
+      "For some cards this does not double the effect (e.g. Stars card only teleports you once)"
+    ]
+  },
+  "Varicose Veins": {
+    "name": "Varicose Veins",
+    "pickup": "\"I'm leaking...\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Every time you take damage, 10 high damage tears are fired in a circle around you (similar to the Tammy's Head effect)",
+      "Similar to Tammy's Head, this item synergizes with a lot of items (i.e. with Brimstone it fires 10 lasers)"
+    ]
+  },
+  "Compound Fracture": {
+    "name": "Compound Fracture",
+    "pickup": "\"Bone tears!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Delirium in The Void floor with Lazarus.",
+    "description": [
+      "Turns your tears into bones, which shatter into 1-3 smaller bone shards upon hitting any object or enemy.",
+      "The smaller bone shards deal damage equal to half your normal tear damage",
+      "+1.5 Range Up"
+    ]
+  },
+  "Polydactyly": {
+    "name": "Polydactyly",
+    "pickup": "\"Hold me!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Boss Room"
+    ],
+    "description": [
+      "Allows Isaac to carry two cards, runes or pills (or any combination of these) at the same time.",
+      "Drops a random card, pill or rune on pickup"
+    ]
+  },
+  "Dad's Lost Coin": {
+    "name": "Dad's Lost Coin",
+    "pickup": "\"I remember this...\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Boss Room, Beggar"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Greedier Mode with The Lost.",
+    "description": [
+      "+1.5 Range Up",
+      "Drops a lucky penny"
+    ]
+  },
+  "Moldy Bread": {
+    "name": "Moldy Bread",
+    "pickup": "\"Midnight snack!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Boss Room, Beggar"
+    ],
+    "description": [
+      "+1 Health Up"
+    ]
+  },
+  "Cone Head": {
+    "name": "Cone Head",
+    "pickup": "\"Hard headed!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "+1 Soul Heart",
+      "Each time you take damage from any source, Cone Head has a chance to prevent it from reducing your health (similar to the Infamy item)",
+      "Isaac flashes blue very briefly when damage is negated by this item"
+    ]
+  },
+  "Belly Button": {
+    "name": "Belly Button",
+    "pickup": "\"Whats in there?\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Boss Room"
+    ],
+    "description": [
+      "Drops one random trinket on pickup",
+      "Gives you an extra trinket slot (same effect as Mom's Purse)"
+    ]
+  },
+  "Sinus Infection": {
+    "name": "Sinus Infection",
+    "pickup": "\"Booger tears!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Isaac's tears have a random chance to be a booger instead, which stick on to enemies and deal periodic poison damage until they die",
+      "Each tick of poison damage is equal to your normal tear damage",
+      "Each booger persists until the enemy is dead or 60 seconds has passed"
+    ]
+  },
+  "Glaucoma": {
+    "name": "Glaucoma",
+    "pickup": "\"Blind tears!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Adds a chance to shoot a concussive tear, which will cause enemies to walk around dazed in confusion.",
+      "The daze effect is effectively permanent for normal enemies, and has a much longer duration for bosses compared to other status effects",
+      "Makes all rooms slightly darker",
+      "The visual effect of a Glaucoma tear is hard to notice, however it is slightly lighter than normal tears and is not a perfect circle shape\n      "
+    ]
+  },
+  "Parasitoid": {
+    "name": "Parasitoid",
+    "pickup": "\"Egg tears!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "This item gives you a chance that instead of firing tears you will fire an egg sack, which slows enemies on hit and drops a pool of white slowing creep below them",
+      "If a parasitoid shot successfully hits an enemy, a blue friendly fly or spider is spawned"
+    ]
+  },
+  "Eye of Belial": {
+    "name": "Eye of Belial",
+    "pickup": "\"Possessed tears!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Devil Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Greedier Mode with Judas.",
+    "description": [
+      "Causes your tears to become piercing, allowing them to travel through enemies",
+      "After hitting its first enemy, each tear will double in damage and gain a homing effect",
+      "+1.5 Range Up"
+    ]
+  },
+  "Sulfuric Acid": {
+    "name": "Sulfuric Acid",
+    "pickup": "\"Acid tears!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "+0.3 Damage Up",
+      "Each tear has a chance to become acidic, allowing it to break rocks, pots and other breakable objects",
+      "Acidic tears can also be used to open secret rooms"
+    ]
+  },
+  "Glyph of Balance": {
+    "name": "Glyph of Balance",
+    "pickup": "\"A gift from above\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Angel Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Greedier mode with Maggy.",
+    "description": [
+      "+2 Soul Hearts",
+      "This item will modify drops from champion enemies based on your current player state. The priority list of what will drop from champion enemies in order is as follows:",
+      "        Soul Hearts - When you have no red heart containers and less than 2 soul hearts",
+      "        Red Hearts (Full hearts) - While at 0.5 red hearts",
+      "        Keys - When you have no keys.",
+      "        Bombs - When you have no Bombs",
+      "        Red Hearts (Full hearts) - When you have at least half a red heart container empty",
+      "        Coins - While at less than 15 cents",
+      "        Keys - When you have less than 5 keys.",
+      "        Bombs - When you have less than 5 bombs",
+      "        Trinkets - If you have no trinkets and there are no trinkets on the ground in the room",
+      "        Soul Hearts - When you have less than 6 total heart containers of any kind",
+      "If none of the above conditions are true, champions will resume dropping their regular pickups"
+    ]
+  },
+  "Analog Stick": {
+    "name": "Analog Stick",
+    "pickup": "\"360 tears!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "+0.3 Tears Up",
+      "Allows you to fire tears diagonally by holding down two of the fire buttons at once",
+      "If you are using a gamepad, this item allows you to fire in any direction"
+    ]
+  },
+  "Contagion": {
+    "name": "Contagion",
+    "pickup": "\"Outbreak!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "The first enemy you kill in each new room will now explode and poison all nearby enemies, causing them to take periodic damage until they also die and explode",
+      "If you have lots of enemies near each other this can cause a chain reaction, killing lots of enemies in one go"
+    ]
+  },
+  "Finger!": {
+    "name": "Finger!",
+    "pickup": "\"Watch where you point that!\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Gives Isaac a finger which floats infront of him and points in the same direction he is facing or firing. The finger deals 10% of your normal damage to all enemies in the same direction that the finger is pointing.\n      ",
+      "The finger will also deal damage to entities such as fires and poops",
+      "Applies on-hit status effects such as the burning debuff from Fire Mind",
+      "Spawns guppy flies if you have the Guppy transformation"
+    ]
+  },
+  "Shade": {
+    "name": "Shade",
+    "pickup": "\"It follows\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Devil Room, Curse Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Delirium in The Void floor with Judas.",
+    "description": [
+      "Isaac gains a shadow familiar that will follow Isaac's movement pattern delayed by 1 second and deal contact damage to enemies"
+    ]
+  },
+  "Depression": {
+    "name": "Depression",
+    "pickup": "\":(\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Isaac gains a cloud familiar that follows him and leaves a trail of tears on the floor which damages enemies for 2 damage per tick",
+      "Enemies touching the cloud have a chance to activate the Crack the Sky effect, which spawns a light beam that deals damage equal to your tear damage + 20"
+    ]
+  },
+  "Hushy": {
+    "name": "Hushy",
+    "pickup": "\"Lil hush!\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Hush with Apollyon.",
+    "description": [
+      "Gives Isaac a small Hush familiar that bounces around the room dealing 2 contact damage per tick",
+      "While firing tears Hushy will stop moving, which allows you to keep it in one place",
+      "Hushy will block enemy tears and projectiles"
+    ]
+  },
+  "Lil Monstro": {
+    "name": "Lil Monstro",
+    "pickup": "\"Ain't he cute?\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Gives Isaac a small Monstro familar, who's tears can be charged and released in a shotgun style effect, much like Monstro's main attack",
+      "Lil Mosntro's tears each deal base damage (3.5) and does not scale with damage upgrades"
+    ]
+  },
+  "King Baby": {
+    "name": "King Baby",
+    "pickup": "\"Lord of the dead!\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Shop"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Delirium on The Void floor with ???.",
+    "description": [
+      "A baby familiar that follows you and causes other familiars to follow it. It stops moving while Isaac is firing tears and upon releasing the fire button, King Baby will teleport back to your location.\n      ",
+      "King Baby will always appear first in the queue of familiars"
+    ]
+  },
+  "Big Chubby": {
+    "name": "Big Chubby",
+    "pickup": "\"Chub chub\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "A familiar that follows Isaac and charges forwards very slowly, dealing 2.7 damage per tick to any enemies it comes into contact with.",
+      "Almost identical to the Little Chubby familiar, but this one moves much more slowly and deals less damage"
+    ]
+  },
+  "Tonsil": {
+    "name": "Tonsil",
+    "pickup": "\"Gross...\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: None"
+    ],
+    "description": [
+      "Gives you a Tonsil familiar, which follows Isaac and blocks enemy projectiles",
+      "Does not deal contact damage to enemies",
+      "The Tonsil familiar counts as a passive item but does not appear in any item pools, meaning the only ways to find it and make it appear in your Items Collection page are a) hold the Tonsil trinket and trigger the effect, or b) start with\n        it randomly as Eden"
+    ]
+  },
+  "Plan C": {
+    "name": "Plan C",
+    "pickup": "\"Use with caution\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: One time use",
+      "Item Pool: Shop, Devil Room, Curse Room, Red Chest, Demon Beggar"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Greedier Mode with Lazarus.",
+    "description": [
+      "Upon use, this item deals 9,999,999 damage to all enemies in the room and then kills you 3 seconds later",
+      "This is a single use active item, meaning it is destroyed after using it",
+      "Does not kill both phases of multi-phase bosses like Hush or Ultra Greed",
+      "If used to kill a boss, the kill still counts as a victory for post-it note completion marks, but the run will still get a game over.",
+      "Delirium's death animation takes longer than 3 seconds, meaning you will die before it can count as a completion mark. One exception to this is if you are playing as Lazarus or have Lazarus' Rags - you will respawn in the same room and get\n        the kill.\n      "
+    ]
+  },
+  "D1": {
+    "name": "D1",
+    "pickup": "\"What will it be?\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 4 rooms",
+      "Item Pool: Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Greedier Mode with Isaac.",
+    "description": [
+      "When used, the D1 duplicates 1 random pickup in the current room, including cards, runes, chests and trinkets",
+      "If you drop your current card, rune or pill and duplicate it, this item can effectively act similar to the Blank Card and Placebo items",
+      "Jera runes cannot be duplicated using the D1",
+      "Duplicated chests can turn into another kind of chest randomly (e.g. Red chests)",
+      "Can be used in a shop to duplicate pickups which have not yet been purchased, and take the duplicate pickup for free"
+    ]
+  },
+  "Void": {
+    "name": "Void",
+    "pickup": "\"Consume\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 6 rooms",
+      "Item Pool: Devil Room, Angel Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Delirium in The Void floor with Apollyon.",
+    "description": [
+      "When used, Void will consume any pedestal items in the current room",
+      "If an active item is consumed, its effect will be added to Void's effect when used, allowing you to consume multiple items and combine their effects",
+      "If a passive item is consumed, you gain a small stat upgrade to a random stat",
+      "Possible stat changes include: +1.0 flat damage, +0.5 tears, +0.2 speed, +0.2 shot speed, +0.5 range, +1.0 luck",
+      "Void does not work on devil deal or shop items unless they have been bought first",
+      "Using Void to absorb items in Boss Rush or Challenge Rooms counts as taking the items and will cause the encounter to start",
+      "Using Void on one time use items such as Mama Mega or Diplopia will cause their effect to instantly trigger and will not give you further uses through activating Void again."
+    ]
+  },
+  "Pause": {
+    "name": "Pause",
+    "pickup": "\"Stop!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 2 rooms",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Upon use, this item freezes all enemies in the room until you press the fire button again or 30 seconds passes (whichever happens first)\n      ",
+      "Unlike other active items, bosses are not immune to this effect",
+      "Touching a frozen enemy will still hurt you",
+      "This item doesn not affect troll bombs - they will still explode"
+    ]
+  },
+  "Smelter": {
+    "name": "Smelter",
+    "pickup": "\"Trinket melter!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 6 rooms",
+      "Item Pool: Shop"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Mom's Heart on Hard Mode with Apollyon.",
+    "description": [
+      "Upon use, the Smelter will destroy your currently held trinket and give you the effect permanently, allowing you to stack up lots of different trinket effects",
+      "Holding the Smelter increases the chance for a trinket to drop. (2% chance for the end of room drop to become a trinket)",
+      "If a trinket has been smelted, it won't appear a second time unless the entire trinket pool is exhausted or you restart the run (e.g. by doing a victory lap)"
+    ]
+  },
+  "Compost": {
+    "name": "Compost",
+    "pickup": "\"Gain more friends!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 2 rooms",
+      "Item Pool: Shop, Secret Room"
+    ],
+    "description": [
+      "When used, Compost doubles up the current number of blue flies and spiders you have.",
+      "Compost will also destroy every consumable on the ground in the current room and turn each of them into a blue fly or blue spider.",
+      "If you have no pickups on the ground in the current room and no other flies or spiders, Compost will spawn 1 blue fly or blue spider"
+    ]
+  },
+  "Dataminer": {
+    "name": "Dataminer",
+    "pickup": "\"109\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 4 rooms",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "When used, this item will distort all the sprites and music, rotating graphics 90 degrees and translating them diagonally up/left, while leaving the hitbox in the same place. This can make it confusing while navigating the room.",
+      "Enemy hitboxes remain the same",
+      "Dataminer will randomly increase or decrease one of your stats by a small amount when used",
+      "Gives you the Fruit Cake effect for the room when used, which will give a random tear effect with every tear fired",
+      "All visual and tear effects reset after leaving the room"
+    ]
+  },
+  "Clicker": {
+    "name": "Clicker",
+    "pickup": "\"Change\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 6 rooms",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "When used, this item will randomly change you into another character and remove the last item you picked up",
+      "All stat changes of the new character are applied (e.g. character damage multipliers)",
+      "This item can only reduce your heart containers and will not increase them if you change back into a character with more health. This means if you roll into The Lost, changing back to another character will leave you with only 1/2 of a soul\n        heart\n      ",
+      "Cannot turn you into a character that isn't unlocked yet",
+      "Also includes Lazarus II (Lazarus' revived form) and Black Judas (effect of Judas' Shadow)",
+      "It's also possible that this item will pick the same character, making it seem like nothing happened"
+    ]
+  },
+  "MaMa Mega!": {
+    "name": "MaMa Mega!",
+    "pickup": "\"BOOOOOOOOOM!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: One time use",
+      "Item Pool: Shop, Bomb Beggar"
+    ],
+    "description": [
+      "A one time use item that when used will explode all objects (i.e. rocks, poop) in the room and deal 200 damage to all enemies in the current room, as well as every other room for the remainder of the floor\n      ",
+      "Also opens the boss rush door after Mom's Foot, blue womb door after Mom's Heart, secret rooms and super secret rooms",
+      "Like all single-use items, this item cannot be absorbed and used multiple times by the Void item",
+      "Entering a room with an angel statue will destroy it and automatically spawn one of the Angel mini bosses"
+    ]
+  },
+  "Wait What?": {
+    "name": "Wait What?",
+    "pickup": "\"I can't believe it's not butter bean!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 8 seconds",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Upon use, this item will fart, pushing enemies away and causing a wave of rocks to spawn that spread outwards from Isaac in a circle, dealing 10 damage per hit to any enemies caught in it",
+      "Can be used to open secret rooms",
+      "Visually this item is very similar to Butter Bean",
+      "The rock waves can destroy destructible objects, e.g. poop"
+    ]
+  },
+  "Crooked Penny": {
+    "name": "Crooked Penny",
+    "pickup": "\"50/50\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 4 rooms",
+      "Item Pool: Item Room, Shop, Beggar"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Delirium in The Void floor with Keeper.",
+    "description": [
+      "When used, you have a 50% chance to double all items, consumables and chests in the current room",
+      "If the effect fails, all pickups and items are deleted and Crooked Penny spawns 1 coin",
+      "If there are no consumables currently on the floor, Crooked Penny spawns 1 coin",
+      "This item works with items which can be purchased such as shop items, allowing you to spawn a free version if the effect triggers",
+      "If used in a shop and the effect fails, a Restock box can be used to restore the shop items. This mechanic is very useful on Greed and Greedier modes"
+    ]
+  },
+  "Dull Razor": {
+    "name": "Dull Razor",
+    "pickup": "\"I feel numb...\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 2 rooms",
+      "Item Pool: Shop"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Delirium on The Void floor with Eve.",
+    "description": [
+      "Upon use this item hurts Isaac without actually taking health away, allowing you to activate any items which trigger when taking damage without losing health"
+    ]
+  },
+  "Potato Peeler": {
+    "name": "Potato Peeler",
+    "pickup": "\"A pound of flesh...\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: None",
+      "Item Pool: Shop, Demon Beggar"
+    ],
+    "description": [
+      "When used, this item permanently removes one of your red heart containers and gives you a flat +0.2 Damage Up, +0.5 Range Up and a Cube of Meat",
+      "The range increase will only last for the current room, but the Cube of Meat and Damage Up are both permanent",
+      "Only works for red hearts and has no effect when used if you only have soul/black hearts",
+      "Has no recharge time and can be used as often as you like",
+      "It is possible to generate multiple meatboys by stacking more than 4 Cubes of Meat"
+    ]
+  },
+  "Metronome": {
+    "name": "Metronome",
+    "pickup": "\"Waggles a finger\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 2 rooms",
+      "Item Pool: Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Greedier Mode with Eden.",
+    "description": [
+      "When used, this item gives you the effect of a random item for the rest of the room",
+      "Using this item multiple times in the same room will replace the previous item's effect with a new one",
+      "Certain items can be activated with this item which have unexpected effects and many items will do nothing",
+      "Items do not grant consumable drops which would normally occur when that item is picked up",
+      "Most flight-granting items have cosmetic effects only, and will not allow you to fly",
+      "Items that usually give HP up will not give extra health when gained from Metronome"
+    ]
+  },
+  "D infinity": {
+    "name": "D infinity",
+    "pickup": "\"Reroll forever\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 2 rooms",
+      "Item Pool: Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Delirium in The Void floor with Isaac.",
+    "description": [
+      "When picked up, this item gives you a random Dice active item, which will transform into another random dice upon use",
+      "Possible dice include: D4, D6, D8, D10, D12, D20, D100",
+      "All dice given by this item have a 2 room recharge time"
+    ]
+  },
+  "Eden's Soul": {
+    "name": "Eden's Soul",
+    "pickup": "\"...\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 12 rooms (one time use)",
+      "Item Pool: Angel Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Delirium in The Void floor with Eden.",
+    "description": [
+      "A one time use active item that when used, will spawn 2 random item pedestals from the item pool associated with the current room (e.g. in an Angel room, this will spawn 2 Angel room items)",
+      "Starts with 0 charge and requires 12 charges to use"
+    ]
+  },
+  "Acid Baby": {
+    "name": "Acid Baby",
+    "pickup": "\"Pills pills pills!\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room, Demon Beggar"
+    ],
+    "description": [
+      "Every 2 rooms Acid Baby will drop a random pill",
+      "Every time you use a pill, Acid Baby will poison all enemies in the room, dealing double your tear damage to each of them"
+    ]
+  },
+  "YO LISTEN!": {
+    "name": "YO LISTEN!",
+    "pickup": "\"Yo listen!\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "A familiar fairy that will float around the room and highlight the location of any secret room doors, tinted rocks or trapdoors under rocks\n      ",
+      "Upon entering a new room, if there is an undiscovered secret room or tinted rock, it will move directly to the point of interest, otherwise it will just randomly fly around the room",
+      "+1 Luck Up"
+    ]
+  },
+  "Adrenaline": {
+    "name": "Adrenaline",
+    "pickup": "\"Panic - power\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "For every empty red heart container, Isaac gains +0.2 Damage Up and his body increases in size",
+      "Only works on full hearts - damage does not change if Isaac is missing 1/2 of a heart in one container.",
+      "Healing empty red heart containers will remove the damage increases",
+      "Has no effect for The Lost and ???, as they cannot gain red heart containers (except for counting towards the Spun transformation)"
+    ]
+  },
+  "Jacob's Ladder": {
+    "name": "Jacob's Ladder",
+    "pickup": "\"Electric tears\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Isaac gains electric tears, which fire 1-2 sparks of electricty in random directions upon hitting any object or enemy",
+      "The electricty deals half of your normal tear damage",
+      "Tear effects will still apply to your electricty sparks in a lot of cases (e.g. Spoon Bender will give them a homing effect)",
+      "Tears which fall naturally to the floor at max range do not generate sparks"
+    ]
+  },
+  "Ghost Pepper": {
+    "name": "Ghost Pepper",
+    "pickup": "\"Flame tears\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Each tear now has a small chance to be a fire instead, which deals 23 damage to enemies that come in contact with it.",
+      "The fire will remain in place and shrink in size when deals damage to something. After dealing enough damage it will eventually disappear\n      "
+    ]
+  },
+  "Euthanasia": {
+    "name": "Euthanasia",
+    "pickup": "\"Needle shot\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Curse Room, Demon Beggar"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Delirium in The Void floor with Lilith.",
+    "description": [
+      "Each tear now has a small chance to be a needle instead, which deals 3 times your tear damage.",
+      "If a needle hits a non-boss enemy it will instantly kill it and will explode into a circle of 10 more needles",
+      "The 10 spawned needles will also deal 3 times your tear damage, but won't instantly kill enemies or explode into more needles",
+      "The chance to for each tear to become a needle is affected by your luck stat and at +15 Luck it will activate every time"
+    ]
+  },
+  "Camo Undies": {
+    "name": "Camo Undies",
+    "pickup": "\"Camo kid\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Upon entering a new room, Isaac will become camouflaged and enemies won't attack until you start firing tears",
+      "Bosses are immune to this effect"
+    ]
+  },
+  "Duality": {
+    "name": "Duality",
+    "pickup": "\"You feel very balanced\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Devil Room, Angel Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Greedier Mode with Lilith.",
+    "description": [
+      "Any time a devil or angel room door opens after a boss, the other one will also spawn",
+      "The extra door will only spawn if a devil or angel room was randomly chosen to spawn already",
+      "After entering one of the doors, the other will disappear",
+      "If there isn't an available wall for the extra door to spawn on, only one door will spawn (i.e. in a small boss room)"
+    ]
+  },
+  "Eucharist": {
+    "name": "Eucharist",
+    "pickup": "\"Peace be with you\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Angel Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Delirium in The Void floor with Maggy.",
+    "description": [
+      "Gives you a 100% chance to find an Angel Room on every valid floor after defeating the boss",
+      "Doesn't spawn an angel room on any floor where it is normally not possible to find one (e.g. Basement 1, Cathedral, Sheol etc.)",
+      "Keeps the chance at 100% even after entering and leaving the angel room, meaning the door will not close after visiting",
+      "Makes it impossible to find Devil Rooms again, unless you find a way to remove or reroll this item away, or find the Duality item"
+    ]
+  },
+  "Sack of Sacks": {
+    "name": "Sack of Sacks",
+    "pickup": "\"Gives Sacks!\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Shop, Golden Chest"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Greedier Mode as Cain.",
+    "description": [
+      "A sack familiar that has a random chance to drop a sack at the end of each room"
+    ]
+  },
+  "Greed's Gullet": {
+    "name": "Greed's Gullet",
+    "pickup": "\"Money = Health!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Secret Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Challenge #35 (Pong).",
+    "description": [
+      "Gives you an extra heart container for every 25 coins you are currently holding, up to a maximum of 4 extra HP at 99 coins held",
+      "If your coin counter goes below the required amount for a heart container, you will lose it again",
+      "This item works for the Keeper, allowing him to exceed his usual 2 health containers.",
+      "However, if Keeper drops to under 2 health coins as a result of Greed's Gullet, he is unable to use a HP Up to increase his health back to 2, and has to regain the lost coins to do so."
+    ]
+  },
+  "Large Zit": {
+    "name": "Large Zit",
+    "pickup": "\"Creep shots\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Gives you a random chance while firing tears to also fire a creep shot, which deals double your tear damage and places white creep on the floor infront of you that slows enemies down if they walk through it\n      ",
+      "Unlike some similar tear effects, your luck stat does not alter the chance for this effect to activate"
+    ]
+  },
+  "Little Horn": {
+    "name": "Little Horn",
+    "pickup": "\"Science!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Curse Room, Demon Beggar"
+    ],
+    "description": [
+      "While firing tears you have a chance to fire a piercing void tear, that will instantly kill any non-boss enemy it comes into contact with\n      ",
+      "Isaac also grows a horn on his head, which causes you to deal contact damage to enemies by running into them (this effect deals base damage of 3.5)"
+    ]
+  },
+  "Brown Nugget": {
+    "name": "Brown Nugget",
+    "pickup": "\"Friendly Fly\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 7 seconds",
+      "Item Pool: Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Ultra Greed as Apollyon.",
+    "description": [
+      "When used, will spawn a fly turret that doesn't move and fires tears at nearby enemies",
+      "Only persists for the current room",
+      "The fly's bullets deal 2 damage each and do not scale with your own damage stat"
+    ]
+  },
+  "Poke Go": {
+    "name": "Poke Go",
+    "pickup": "\"Gotta catch em...\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Shop"
+    ],
+    "description": [
+      "At the start of each new hostile room, you have a chance to gain a random charmed familiar which will fight for you",
+      "The charmed enemy has its own health bar and will die if it takes enough damage",
+      "Charmed enemies persist between each room and floor for as long as they stay alive",
+      "Allows you to have more than one charmed familiar at a time if you can keep them alive"
+    ]
+  },
+  "BackStabber": {
+    "name": "BackStabber",
+    "pickup": "\"Watch your back!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Every time one of your tears hits an enemy, it has a chance to start bleeding, which will cause it to take damage equal to 10% of its maximum health every 5 seconds.",
+      "Damaging enemies from behind gives the bleed effect a 100% chance to apply",
+      "The tear that inflicts the bleed effect also deals double damage",
+      "The bleed effect cannot be applied to immune enemies (e.g. bosses and mini bosses)"
+    ]
+  },
+  "Sharp Straw": {
+    "name": "Sharp Straw",
+    "pickup": "\"More blood!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 8 seconds",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "When used, Sharp Straw will deal damage to all enemies in the room",
+      "The damage dealt is equal to Isaac's current tear damage plus 10% of the enemy's max health",
+      "Every time this item deals damage to an enemy, it has a chance to drop 1/2 red hearts or 1/2 soul hearts.",
+      "Half red hearts will always drop when the player has at least one red heart container, otherwise half soul hearts will drop."
+    ]
+  },
+  "Mom's Razor": {
+    "name": "Mom's Razor",
+    "pickup": "\"It's sharp!\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room, Curse Room"
+    ],
+    "description": [
+      "A razor blade orbital that deals contact damage and applies the bleeding status effect to enemies, which will cause them to take damage equal to 10% of their total health every 5 seconds",
+      "The contact damage dealt by Mom's Razor is equal to 20% of your current tear damage (scales with damage upgrades)",
+      "Does not block enemy shots",
+      "The bleed effect does not affect bosses",
+      "Its speed is not affected by the Guardian Angel item"
+    ]
+  },
+  "Bloodshot Eye": {
+    "name": "Bloodshot Eye",
+    "pickup": "\"Bloody friend\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "An eye orbital that shoots a tear every 2 seconds that deals 3.5 damage and deals 2 contact damage per tick to enemies",
+      "Tears will fire in the direction it is currently facing and do not target enemies",
+      "Unlike other orbitals, this item does not block enemy projectiles",
+      "The damage dealt by this orbital does not scale with damage upgrades",
+      "Its speed is not affected by the Guardian Angel item"
+    ]
+  },
+  "Delirious": {
+    "name": "Delirious",
+    "pickup": "\"Unleash the power!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 12 rooms",
+      "Item Pool: Angel Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Delirium for the first time on any character",
+    "description": [
+      "When used, spawns a charmed random white delirium version of a boss, that will fight for you and kill other enemies for the rest of the current room",
+      "Possible bosses spawned include most bosses in the game",
+      "Some bosses' effects can harm Isaac. For example if the spawned boss leaves creep, it can damage Isaac"
+    ]
+  },
+  "Angry Fly": {
+    "name": "Angry Fly",
+    "pickup": "\"He's violent\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by transforming into Beelzebub (Achieved by picking up 3 fly related items, see Transformations page for full list).",
+    "description": [
+      "A familiar fly that orbits around a random enemy in the room until that enemy dies, dealing 2 contact damage to other enemies",
+      "Angry Fly will move to the next enemy after the one it is currently orbiting dies, until the room is cleared, at which point it will return to orbiting Isaac",
+      "Added as part of the Afterbirth+ Booster Pack #1 and based on the Steam Workshop mod created by Custom Phase"
+    ]
+  },
+  "Black Hole": {
+    "name": "Black Hole",
+    "pickup": "\"Nothing can escape\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 4 rooms",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "A throwable active item that places a black hole on the ground where it lands, sucking all enemies into it for 6 seconds",
+      "Enemies stuck inside the black hole take rapid damage over time",
+      "The Black Hole will also suck Isaac into it, but with a much weaker effect than to enemies",
+      "The Black Hole will destroy nearby obstacles such as rocks and pots",
+      "Added as part of the Afterbirth+ Booster Pack #1 and based on the Steam Workshop mod created by Custom Phase"
+    ]
+  },
+  "Bozo": {
+    "name": "Bozo",
+    "pickup": "\"Party time!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by breaking 5 rainbow poops.",
+    "description": [
+      "+0.1 Damage Up",
+      "+1 Soul Heart",
+      "Adds a random chance for an enemy in the current room to become charmed or feared briefly",
+      "Adds a random chance to spawn a rainbow poop upon taking damage",
+      "Added as part of the Afterbirth+ Booster Pack #1 and based on the Steam Workshop mod created by Electoon"
+    ]
+  },
+  "Broken Modem": {
+    "name": "Broken Modem",
+    "pickup": "\"LAG!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Shop"
+    ],
+    "unlock": "UNLOCK: Complete 7 Daily Challenges (30 on console)",
+    "description": [
+      "Causes random enemies to 'lag' at random intervals, causing them to freeze in place for a second",
+      "The lag effect can also apply to tears, projectiles and consumables on the ground",
+      "While held, this trinket has a 25% chance to double up any end of room drops (similar to the Contract from Below effect)",
+      "Isaac's Luck stat affects how often the lag effect occurs",
+      "Added as part of the Afterbirth+ Booster Pack #1 and based on the Steam Workshop mod created by Freezenification"
+    ]
+  },
+  "Mystery Gift": {
+    "name": "Mystery Gift",
+    "pickup": "\"Wrapped up nice for you!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: One time use",
+      "Item Pool: Shop"
+    ],
+    "description": [
+      "A one-time use item that spawns a random item from the current room's item pool, with a chance for it to spawn Lump of Coal or The Poop instead\n      ",
+      "Added as part of the Afterbirth+ Booster Pack #1 and based on the Steam Workshop mod created by Mills"
+    ]
+  },
+  "Sprinkler": {
+    "name": "Sprinkler",
+    "pickup": "\"Sprinkles.\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 4 rooms",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "When used, spawns a Sprinkler that rotates in a circle, spraying tears in all directions.",
+      "Will also synergize with some other items, such as Mom's Eye, Brimstone, Dr. Fetus, Tech X or Loki's Horns",
+      "Added as part of the Afterbirth+ Booster Pack #1 and based on the Steam Workshop mod created by Kieran and Stewartisme"
+    ]
+  },
+  "Fast Bombs": {
+    "name": "Fast Bombs",
+    "pickup": "\"Faster Bomb Drops!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Lil Horn 20 times.",
+    "description": [
+      "+7 Bombs",
+      "Allows you to rapidly place bombs on the ground",
+      "Added as part of the Afterbirth+ Booster Pack #1"
+    ]
+  },
+  "Buddy in a Box": {
+    "name": "Buddy in a Box",
+    "pickup": "\"What could it be?!\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Shop"
+    ],
+    "description": [
+      "When picked up, gives Isaac a random familiar which has a random sprite and tear effect",
+      "The familiar will be fully randomized again upon entering the next floor",
+      "The appearance is chosen from a random co-op baby sprite",
+      "Added as part of the Afterbirth+ Booster Pack #1 and based on the Steam Workshop mod created by Ashkait and Scayze"
+    ]
+  },
+  "Lil Delirium": {
+    "name": "Lil Delirium",
+    "pickup": "\"He's Delirious\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Angel Room, Devil Room"
+    ],
+    "description": [
+      "A familiar that will transform into another random familiar every 10 seconds, copying their behaviour and effect",
+      "Can be any other familiar, including (but not limited to) Lil Brimstone, Bob's Brain, BBF, Meatboy, Rotten Baby",
+      "Familiars appear as a white Delirium version of the original",
+      "Added as part of the Afterbirth+ Booster Pack #1 and based on the Steam Workshop mod created by Ashkait and Scayze"
+    ]
+  },
+  "Jumper Cables": {
+    "name": "Jumper Cables",
+    "pickup": "\"Bloody recharge!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Greed Mode Item Room, Shop"
+    ],
+    "unlock": "UNLOCK: Unlock this item by picking up any 3 of these items in a single run: 9 Volt, The Battery, Car Battery, AAA Battery, Watch Battery.",
+    "description": [
+      "This item gives you 1 bar of charge on your active item for every 15 enemies you kill",
+      "Added as part of the Afterbirth+ Booster Pack #2 and based on the Steam Workshop mod created by Ashkait and Scayze"
+    ]
+  },
+  "Coupon": {
+    "name": "Coupon",
+    "pickup": "\"Allow 6 weeks for delivery\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 6 rooms",
+      "Item Pool: Item room, Shop, Beggar"
+    ],
+    "description": [
+      "When used, the coupon causes one random item in the shop to become free",
+      "While held, guarantees a random item or pickup from the shop to be half price",
+      "The effect of this item also works in Devil Rooms, allowing you to take one random item for free",
+      "Added as part of the Afterbirth+ Booster Pack #2 and based on the Steam Workshop mod created by Plumbo"
+    ]
+  },
+  "Telekinesis": {
+    "name": "Telekinesis",
+    "pickup": "\"The power of mind!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 2 seconds",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "An active that causes all enemy tears to be held in place and then thrown back away from Isaac for a period of 3 seconds",
+      "Has a recharge time of about 2 seconds",
+      "Added as part of the Afterbirth+ Booster Pack #2"
+    ]
+  },
+  "Moving Box": {
+    "name": "Moving Box",
+    "pickup": "\"Pack and unpack\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 4 rooms",
+      "Item Pool: Shop"
+    ],
+    "unlock": "UNLOCK: Unlock this item by using Pandora's Box in the Dark Room floor.",
+    "description": [
+      "When used, the box will pick up a maximum of 6 items. Using the box again will put the picked up items back on the floor again, allowing you to move things between rooms",
+      "Can move any of the following: Batteries, Items, Trinkets, Hearts, Keys, Bombs, Coins, Chests and more",
+      "Using Moving Box with Car Battery will trigger 2 interactions at the same time: First it will drop all items currently inside the box and secondly will then pick up the current room's contents.",
+      "When used in a room with 2 items you can choose from (e.g. There's Options, Double item room, Boss Rush) the Moving Box will pick only one of the items at random",
+      "Added as part of the Afterbirth+ Booster Pack #2 and based on the Steam Workshop mod created by HurleyFarrill"
+    ]
+  },
+  "Technology Zero": {
+    "name": "Technology Zero",
+    "pickup": "\"Static tears!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by having 2 technology items at once.",
+    "description": [
+      "Your tears will now be connected together by beams of electricity which deals damage to enemies they hit",
+      "Added as part of the Afterbirth+ Booster Pack #2 and based on the Steam Workshop mod created by Ashkait and Scayze"
+    ]
+  },
+  "Leprosy": {
+    "name": "Leprosy",
+    "pickup": "\"You're tearing me apart!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Taking damage will spawn an orbital that rotates around Isaac, dealing contact damage to enemies and blocking enemy projectiles",
+      "A maximum of 3 Leprocy orbitals can be active at one time",
+      "Using the orbital to deal damage to enemies can cause it to break",
+      "Added as part of the Afterbirth+ Booster Pack #2. Based loosely on the Steam Workshop mod created by Extreme Ninja Home Makeover with changes by Edmund McMillen"
+    ]
+  },
+  "7 Seals": {
+    "name": "7 Seals",
+    "pickup": "\"Lil Harbingers!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Devil Room, Angel Room"
+    ],
+    "description": [
+      "Gives you a random Harbinger familiar that changes every 10 seconds.",
+      "Each harbinger behaves differently, based on any of the original 5 horsemen bosses",
+      "Added as part of the Afterbirth+ Booster Pack #3. Based on the Steam Workshop mod created by by Scayze and Ashkait"
+    ]
+  },
+  "Mr. ME!": {
+    "name": "Mr. ME!",
+    "pickup": "\"Caaan Do!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 4 rooms",
+      "Item Pool: Shop"
+    ],
+    "unlock": "UNLOCK: Unlock this item by opening 20 locked chests.",
+    "description": [
+      "Upon use, this item summons a ghost near Isaac that will follow him around. Also summons a blue crosshair which can be moved around freely. After a few seconds, the crosshair will disappear, and the Ghost will do certain things based on what you targeted:",
+      "Items, pickups, trinkets: Brings them to Isaac. Works in shops and devil deals as well, allowing you to take them for no cost. Stealing an item has a chance to fail (a buzzer sound will play if it fails)",
+      "Buttons: Presses the button",
+      "Enemies: Attacks the enemy until either the ghost or the enemy dies",
+      "Doors: Opens the door, even if it is locked",
+      "Secret room entrances: Explodes and opens the entrance",
+      "Boss rush door: Will open the Boss Rush door from either side, allowing you get into and escape the Boss Rush.",
+      "Slot machines, dead shopkeepers: Charges towards them and explodes them",
+      "Added as part of the Afterbirth+ Booster Pack #3. Based on the Steam Workshop mod created by Jean-Alphonse"
+    ]
+  },
+  "Angelic Prism": {
+    "name": "Angelic Prism",
+    "pickup": "\"Eclipsed by the moon\"",
+    "meta": [
+      "Type: Passive, Orbital",
+      "Item Pool: Angel Room"
+    ],
+    "description": [
+      "Grants a prism orbital with a large orbital radius",
+      "Isaac's tears that pass through the prism split into four multi-colored tears",
+      "Does not deal contact damage to enemies that it passes over",
+      "Added as part of the Afterbirth+ Booster Pack #3. Based on the Steam Workshop mod created by electoon and Erfly"
+    ]
+  },
+  "Pop!": {
+    "name": "Pop!",
+    "pickup": "\"Eyeball tears!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Replaces Isaac's tears with eyeballs that can bounce off of each other",
+      "Issac's tears are no longer limited by range, and will instead dissipate when they stop moving or when hitting an enemy or obstacle",
+      "Added as part of the Afterbirth+ Booster Pack #3. Based on the Steam Workshop mod created by Scayze and Ashkait"
+    ]
+  },
+  "Death's List": {
+    "name": "Death's List",
+    "pickup": "\"Just hope you're not next\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Devil Room"
+    ],
+    "description": [
+      "Upon entering a room, a skull appears over a random enemy's head.",
+      "Killing the marked enemy will cause the skull to move to a different enemy.",
+      "If all enemies in the room are cleared in the order they are marked, Isaac gains a random reward from one of the following: Soul heart, Key, Pill, Bomb, Nickel, +0.2 Speed, +0.5 Range, +0.5 Tears, +1 Flat damage or +1 luck",
+      "Killing enemies in the wrong order will end the streak and deny you any extra rewards.",
+      "Added as part of the Afterbirth+ Booster Pack #4. Based on the Steam Workshop mod created by Merlo."
+    ]
+  },
+  "Haemolacria": {
+    "name": "Haemolacria",
+    "pickup": "\"I'm seeing red...\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by picking up the Blood Clot item 10 times.",
+    "description": [
+      "With Haemolacria, Isaac's tears become bloody and now fire by in the air in an arc.",
+      "Upon hitting the floor, an obstacle or enemy, the bloody tear will burst and fire lots of smaller tears at random directions around the impact point",
+      "Tears Down - (Tear delay * 2) + 10",
+      "Your damage stat is unaffected by this item, however the large bloody tear does +31% of your tear damage and the smaller scattering tears deal 50-80% of your tear damage.",
+      "Added as part of the Afterbirth+ Booster Pack #4. Based on the Steam Workshop mod (originally called Water Balloon) created by HiHowAreYou."
+    ]
+  },
+  "Lachryphagy": {
+    "name": "Lachryphagy",
+    "pickup": "\"Feed them!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Isaac's tears slow down over time while moving across the room, and upon stopping completely or hitting an object will burst into 8 smaller tears which fire in all directions.",
+      "This item will also allow you to 'feed' a tear with other tears. Doing so will cause it to increase in size, and also increase their damage and the damage of the burst tears.",
+      "Once a tear is fed 5 times, it will immediately burst",
+      "Tears in the burst will deal half the damage the main tear would have.",
+      "Tears which hit an enemy do not burst",
+      "Added as part of the Afterbirth+ Booster Pack #4. Based on the Steam Workshop mod (originally called Hungry Tears) created by Echo"
+    ]
+  },
+  "Trisagion": {
+    "name": "Trisagion",
+    "pickup": "\"Smite thy enemy\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Angel Room"
+    ],
+    "description": [
+      "Isaac's tears are replaced with piercing holy flashes of light, which travel across the room in a similar speed to regular tears.",
+      "Trisagion tears deal roughly 33% of your usual tear damage, however due to the size of the holy flash it is likely to hit enemies multiple times",
+      "Trisagion tears cause no knockback on enemies and simply travel through them (piercing tears)",
+      "Added as part of the Afterbirth+ Booster Pack #4. Based on the Steam Workshop mod (originally called Lightshot) created by Wyvern and TRPG"
+    ]
+  },
+  "Schoolbag": {
+    "name": "Schoolbag",
+    "pickup": "\"Extra active item room\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Shop"
+    ],
+    "unlock": "UNLOCK: Unlock this item by entering every Shop from the first floor up to Mom's Heart (Depths 2).",
+    "description": [
+      "Gives you an extra active item slot",
+      "Pressing the CTRL key allows you to switch active items",
+      "Functions exactly the same as the Antibirth item with the same name",
+      "Added as part of the Afterbirth+ Booster Pack #4."
+    ]
+  },
+  "Blanket": {
+    "name": "Blanket",
+    "pickup": "\"You feel safe\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Shop"
+    ],
+    "unlock": "UNLOCK: Unlock this item by sleeping in 10 different beds.",
+    "description": [
+      "+1 Soul Heart",
+      "Heals 1 red heart when picked up",
+      "Grants you a shield when entering the Boss Room, which prevents damage from 1 hit, then disappears",
+      "Added as part of the Afterbirth+ Booster Pack #5. Based on the Steam Workshop mod created by Ratlah"
+    ]
+  },
+  "Sacrificial Altar": {
+    "name": "Sacrificial Altar",
+    "pickup": "\"He demands a sacrifice\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: Single use",
+      "Item Pool: Curse Room"
+    ],
+    "description": [
+      "When used, this item will sacrifice up to 2 of your familiars (chosen at random), and spawn a random Devil Room item for each familar sacrificed this way",
+      "In addition to the familiars, any blue flies or spiders will be converted to 1 coin each.",
+      "If Guardian Angel, Sworn Protector, or Seraphim is sacrificed, Satan will be extra happy and reward you with 2 black hearts.",
+      "Incubus won't be sacrificed if you're playing as Lilith",
+      "If used while you have no familiar, this item will do nothing and won't consume the item",
+      "Added as part of the Afterbirth+ Booster Pack #5. Based on the Steam Workshop mod created by Niro"
+    ]
+  },
+  "Lil Spewer": {
+    "name": "Lil Spewer",
+    "pickup": "\"Puking buddy\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by dying to your own Ipecac explosion.",
+    "description": [
+      "A familiar with a charged attack, that spawns a line of creep on the floor which damages enemies that walk over it",
+      "Spawns 1 random pill when picked up",
+      "The familiar and its creep will change randomly when Isaac uses a pill.",
+      "Possible creep types include green (deals damage), black (slows enemies), red (deals damage, forms a line with a larger puddle), yellow (deals damage, forms a short-range cone) and white (slows enemies, forms a ring)",
+      "Added as part of the Afterbirth+ Booster Pack #5. Based on the Steam Workshop mod created by Strawrat and Aczom"
+    ]
+  },
+  "Marbles": {
+    "name": "Marbles",
+    "pickup": "\"Choking hazard\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Boss Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by using 5 Gulp! pills in one run.",
+    "description": [
+      "Spawns 3 random trinkets when picked up",
+      "Upon taking damage, you have a random chance to consume one of your currently held trinkets, gaining its effect permanently",
+      "Added as part of the Afterbirth+ Booster Pack #5. Based on the Steam Workshop mod created by Amethyst"
+    ]
+  },
+  "Mystery Egg": {
+    "name": "Mystery Egg",
+    "pickup": "\"Sacrificial insemination\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by spawning 3 charmed enemies in a single room.",
+    "description": [
+      "A familiar which follows Isaac and, upon taking damage, will spawn a charmed enemy that will fight for you",
+      "When the charmed enemy is spawned the egg will crack, but regenerate in the next room",
+      "Added as part of the Afterbirth+ Booster Pack #5. Based on the Steam Workshop mod created by Strawrat and Aczom"
+    ]
+  },
+  "Flat Stone": {
+    "name": "Flat Stone",
+    "pickup": "\"Skipping tears\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by picking up Rubber Cement 5 times.",
+    "description": [
+      "Flat Stone causes your tears to bounce across the room",
+      "Whenever a tear bounces, it deals splash damage to nearby enemies for 25% of your tear damage",
+      "Added as part of the Afterbirth+ Booster Pack #5. Based on the Steam Workshop mod created by Maddogs"
+    ]
+  },
+  "Marrow": {
+    "name": "Marrow",
+    "pickup": "\"HP up?\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Boss Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Mom's Heart on hard mode as The Forgotten.",
+    "description": [
+      "+1 Bone Heart",
+      "Spawns 3 red hearts on the ground when picked up",
+      "Added as part of the Afterbirth+ Booster Pack #5."
+    ]
+  },
+  "Slipped Rib": {
+    "name": "Slipped Rib",
+    "pickup": "\"Projectile shield\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating the Isaac boss as The Forgotten.",
+    "description": [
+      "This item gives you an orbital, which will reflect projectiles back at enemies",
+      "Unlike some other orbitals, Slipped Rib doesn't deal contact damage to enemies",
+      "Added as part of the Afterbirth+ Booster Pack #5."
+    ]
+  },
+  "Hallowed Ground": {
+    "name": "Hallowed Ground",
+    "pickup": "\"Portable sanctuary\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Hush as The Forgotten.",
+    "description": [
+      "A familiar which follows Isaac and spawns a white poop when you take damage",
+      "The white poop gives an aura that cuts your tear delay in half (Tears up) and has a chance to block damage",
+      "The aura disappears if the poop is destroyed",
+      "Added as part of the Afterbirth+ Booster Pack #5."
+    ]
+  },
+  "Pointy Rib": {
+    "name": "Pointy Rib",
+    "pickup": "\"Stabbing time\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Satan as The Forgotten.",
+    "description": [
+      "A familiar that can be aimed with the fire buttons similar to the Finger item, dealing contact damage to enemies equal to your tear damage",
+      "Added as part of the Afterbirth+ Booster Pack #5."
+    ]
+  },
+  "Book of the Dead": {
+    "name": "Book of the Dead",
+    "pickup": "\"Rise from the grave\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 4 rooms",
+      "Item Pool: Item Room, Library"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Delirium in The Void floor as The Forgotten.",
+    "description": [
+      "When used, this item will spawn a bone orbital or charmed Bony for each enemy killed in the current room.",
+      "The orbitals and charmed enemies persist when travelling between rooms.",
+      "Bone orbitals break after dealing enough damage or blocking too many shots.",
+      "Added as part of the Afterbirth+ Booster Pack #5."
+    ]
+  },
+  "Dad's Ring": {
+    "name": "Dad's Ring",
+    "pickup": "\"Father's blessing\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Secret Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Ultra Greedier as The Forgotten.",
+    "description": [
+      "A passive item that puts a yellow ring around Isaac. Enemies are frozen in place while touching the yellow ring",
+      "Enemies touching the ring will stay permanently frozen until you move away, except for bosses which only get a temporary freeze effect after touching it",
+      "Added as part of the Afterbirth+ Booster Pack #5."
+    ]
+  },
+  "Divorce Papers": {
+    "name": "Divorce Papers",
+    "pickup": "\"Tears up + you feel empty\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Boss Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating Boss Rush as The Forgotten.",
+    "description": [
+      "+1 Bone Heart",
+      "+0.7 Tears Up",
+      "When you pick this item up, the Mysterious Paper trinket is spawned on the ground",
+      "Added as part of the Afterbirth+ Booster Pack #5."
+    ]
+  },
+  "Jaw Bone": {
+    "name": "Jaw Bone",
+    "pickup": "\"Fetch\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating ??? in The Chest floor as The Forgotten.",
+    "description": [
+      "A familiar that flies across the room every few seconds while firing and damages enemies (2x your tear damage)",
+      "Can also be used like the Boomerang to pick up consumables on the ground",
+      "Added as part of the Afterbirth+ Booster Pack #5."
+    ]
+  },
+  "Brittle Bones": {
+    "name": "Brittle Bones",
+    "pickup": "\"Everything hurts\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by defeating The Lamb in the Dark Room floor as The Forgotten.",
+    "description": [
+      "When picked up, this item replaces all of your red heart containers with 6 Bone Hearts",
+      "Every time you lose a bone heart, lots of bones fire in all directions damaging any enemies hit and you gain a permenent +0.5 Tears Up",
+      "For the Lost and Keeper characters, this item simply gives a permanent Tears Up.",
+      "Added as part of the Afterbirth+ Booster Pack #5."
+    ]
+  },
+  "Broken Shovel": {
+    "name": "Broken Shovel",
+    "pickup": "\"Lost but not forgotten\"",
+    "meta": [
+      "Type: Passive"
+    ],
+    "description": [
+      "Drops after beating the Boss Rush while holding the other half of the Broken Shovel (see previous item for more details)",
+      "Combines with the first Broken Shovel piece to create Mom's Shovel (see next item for more details)",
+      "Added as part of the Afterbirth+ Booster Pack #5 and used in the quest to unlock The Forgotten character"
+    ]
+  },
+  "Mom's Shovel": {
+    "name": "Mom's Shovel",
+    "pickup": "\"Lost but not forgotten\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 4 rooms"
+    ],
+    "description": [
+      "When used, spawns a trapdoor that leads to the next floor (has a 10% chance to be a crawl space instead)",
+      "Unlocks The Forgotten character when used on a mound of dirt that appears in a room in The Dark Room floor",
+      "Obtained by combining the two Broken Shovel pieces. The first piece drops by beating the first floor boss within 1 minute then bombing the shadow in the first room. The second piece drops after beating the Boss Rush as long as you are holding the first Broken Shovel piece (see previous 2 items for full details).",
+      "After The Forgotten is unlocked, using it on the mound of dirt again just spawns a random type of chest",
+      "Added as part of the Afterbirth+ Booster Pack #5 and used in the quest to unlock The Forgotten character"
+    ]
+  }
+}

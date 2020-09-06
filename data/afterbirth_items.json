@@ -1,0 +1,1264 @@
+{
+  "Diplopia": {
+    "name": "Diplopia",
+    "pickup": "\"Double item vision\"",
+    "meta": [
+      "Type: Active",
+      "Recharge Time: Instant (One time use)",
+      "Item Pool: Shop"
+    ],
+    "description": [
+      "A one-time use item which when used, will duplicate any pedestal items or consumables in the current room.",
+      "If used in a shop, the duplicated items can be taken for free.",
+      "If used on a trinket, another random trinket will spawn instead of a duplicate.",
+      "If used in the Boss Rush, all the duplicates can be taken for free as well as one of the original items."
+    ]
+  },
+  "Placebo": {
+    "name": "Placebo",
+    "pickup": "\"Pill mimic\"",
+    "meta": [
+      "Type: Active",
+      "Recharge Time: 4 rooms",
+      "Item Pool: Shop, Greed Mode Shop"
+    ],
+    "description": [
+      "When used, copies the effect of the pill you are currently holding without consuming it.",
+      "Does not copy effects of Cards or Runes.",
+      "Can be used to generate infinite batteries with the 48 hour energy pill."
+    ]
+  },
+  "Wooden Nickel": {
+    "name": "Wooden Nickel",
+    "pickup": "\"Flip a coin\"",
+    "meta": [
+      "Type: Active",
+      "Recharge Time: 1 room",
+      "Item Pool: Shop, Greed Mode Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by donating 33 coins to the Greed Donation Machine.",
+    "description": [
+      "When used, has a 50% chance to drop one random type of coin (penny, nickel or dime)"
+    ]
+  },
+  "Toxic Shock": {
+    "name": "Toxic Shock",
+    "pickup": "\"Mass poison\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "With this item, at the start of every room you will deal double your tear damage to the entire room in a poison effect.",
+      "Enemies killed now also leave a pool of creep on the ground where they died.",
+      "High tear damage will cause this item to become very powerful for rooms with a lot of enemies, since they can die instantly and render the room harmless.",
+      "Enemies which spawn after the first few seconds of each room are not affected by this item, e.g. Flies spawned from a Mulligan dying."
+    ]
+  },
+  "Mega Bean": {
+    "name": "Mega Bean",
+    "pickup": "\"Giga fart!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge Time: 3 rooms",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "When used, the Mega Bean will freeze all enemies in the current room for a couple of seconds, deal 5 damage and poison any enemies in close proximity and send a wave of spikes across the room in the direction you are facing.",
+      "The enemies in close range will take 5 damage then have a poison over time effect which deals your tear damage 4 or 6 times.",
+      "The spike wave will deal 10 damage to any enemies in contact with it.",
+      "Can be used to open secret rooms."
+    ]
+  },
+  "Glass Cannon": {
+    "name": "Glass Cannon",
+    "pickup": "\"Be gentle...\"",
+    "meta": [
+      "Type: Active",
+      "Recharge Time: 5 seconds",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "When used, reduces your health to half a heart and fires one large piercing spectral tear that does a lot of damage.",
+      "This will affect all hearts including red, soul and black, reducing all of them down to half of one heart.",
+      "The damage done by Glass Cannon is calculated as follows: dmg = (dmg + 1) * 10 (i.e. at base damage of 3.5, that's 45 damage)."
+    ]
+  },
+  "Bomber Boy": {
+    "name": "Bomber Boy",
+    "pickup": "\"Explosive blast!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room, Bomb Beggar"
+    ],
+    "description": [
+      "+5 bombs",
+      "Isaac's bombs will now explode in a large cross-shaped pattern (roughly 5 bombs explosions wide).",
+      "This also affects troll bombs."
+    ]
+  },
+  "Crack Jacks": {
+    "name": "Crack Jacks",
+    "pickup": "\"Don't swallow the prize!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Boss Room"
+    ],
+    "description": [
+      "+1 Health Up",
+      "Spawns a random trinket on the floor."
+    ]
+  },
+  "Mom's Pearls": {
+    "name": "Mom's Pearls",
+    "pickup": "\"Range + luck up\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Boss Room"
+    ],
+    "description": [
+      "+1.25 Range Up.",
+      "+0.5 Tear Height.",
+      "+1 Luck Up."
+    ]
+  },
+  "Car Battery": {
+    "name": "Car Battery",
+    "pickup": "\"Double charge!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Shop, Greed Mode Shop"
+    ],
+    "description": [
+      "The Car Battery causes your spacebar item to activate twice on each use.",
+      "For example, with Yum Heart you would heal 2 full red hearts instead of 1."
+    ]
+  },
+  "Box of Friends": {
+    "name": "Box of Friends",
+    "pickup": "\"Double your friends\"",
+    "meta": [
+      "Type: Active",
+      "Recharge Time: 4 rooms",
+      "Item Pool: Shop, Greed Mode Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Greed Mode with Lilith.",
+    "description": [
+      "Upon use, gives you a duplicate of each familiar you have for the current room.",
+      "It will not 'double' your familiars in the sense that if you have 2 of one kind, it will only give you an extra one.",
+      "If the familiar only appears when taking damage (i.e. Dead Bird) then Box of Friends will cause it to spawn but won't create duplicates.",
+      "This can be used multiple times in the same room to generate more familiars, meaning you can get a level 4 meatboy or bandage girl by using this item 3 times in the same room.",
+      "If used when you have no familiars, it will give you a Demon Baby temporarily.",
+      "Lilith starts with this item."
+    ]
+  },
+  "The Wiz": {
+    "name": "The Wiz",
+    "pickup": "\"Double wiz shot!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Isaac wears a dunce hat and fires 2 tears at once diagonally, similar to the R U A WIZARD pill tear pattern.",
+      "Gives Isaac spectral tears which allows them to travel through objects in the environment (i.e. rocks)."
+    ]
+  },
+  "8 Inch Nails": {
+    "name": "8 Inch Nails",
+    "pickup": "\"Stick it to 'em!\"",
+    "meta": [
+      "Type: Passive, Tear Modifier",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "+1.5 Damage Up.",
+      "Replaces Isaac's tears with nails, which have increased knockback.",
+      "The increased knockback will also affect Brimstone, which usually has no knockback at all."
+    ]
+  },
+  "Incubus": {
+    "name": "Incubus",
+    "pickup": "\"Dark friend\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Devil Room, Greed Mode Devil Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Blue Womb (Hush) with Lilith.",
+    "description": [
+      "Gives you a familiar demon incubus that follows you and shoots tears exactly the same as Isaac's in terms of damage, stats and also effects.\n      ",
+      "It will mimic any tear effects you currently have and also copy your current stats, meaning it will fire with the same damage, fire rate and range.",
+      "Incubus' tear damage will scale with any future damage ups and stat upgrades you take.",
+      "Lilith starts with this item."
+    ]
+  },
+  "Fate's Reward": {
+    "name": "Fate's Reward",
+    "pickup": "\"Your fate beside you\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room, Gold Chest"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Blue Womb (Hush) with ??? (Blue baby).",
+    "description": [
+      "A familiar blue head that will follow Isaac and fire tears copying his tear damage.",
+      "This familiar is very similar to Incubus, however it only copies damage and is not affected by tears or range upgrades."
+    ]
+  },
+  "Lil Chest": {
+    "name": "Lil Chest",
+    "pickup": "\"What's in the box?\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room, Greed Mode Item Room, Beggar"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Greed Mode with Isaac.",
+    "description": [
+      "A familiar chest that follows Isaac and will drop a random pickup every few rooms."
+    ]
+  },
+  "Sworn Protector": {
+    "name": "Sworn Protector",
+    "pickup": "\"Protective friend\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Angel Room, Greed Mode Angel Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Blue Womb (Hush) with The Lost.",
+    "description": [
+      "An orbital angel which does 7 contact damage per tick and blocks shots.",
+      "The angel will attract bullets towards it and block them.",
+      "After blocking a tear, this orbital has a chance to drop an eternal heart.",
+      "Visually this is almost identical to the Guardian Angel item, but without a face."
+    ]
+  },
+  "Friend Zone": {
+    "name": "Friend Zone",
+    "pickup": "\"Friendly fly\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room, Greed Mode Item Room, Key Beggar"
+    ],
+    "description": [
+      "A white orbiting fly which deals 3 contact damage per tick to enemies.",
+      "This familiar orbits Isaac at a middle length distance somewhere between Distant Admiration and Forever Alone"
+    ]
+  },
+  "Lost Fly": {
+    "name": "Lost Fly",
+    "pickup": "\"Lost protector\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room, Greed Mode Item Room, Key Beggar"
+    ],
+    "description": [
+      "A familiar fly that moves in a straight line and attaches itself to the first obstacle or wall it comes into contact with in each room.\n      ",
+      "If any enemies walk into its path, it will deal 7 contact damage per tick.",
+      "If the obstacle it is attached to is destroyed then it will continue rolling in the direction it was previously travelling until it meets another wall or obstacle."
+    ]
+  },
+  "Scatter Bombs": {
+    "name": "Scatter Bombs",
+    "pickup": "\"We put bombs in your bombs!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room, Bomb Beggar"
+    ],
+    "description": [
+      "+5 bombs",
+      "Causes your bombs to explode into 4 tiny bombs"
+    ]
+  },
+  "Sticky Bombs": {
+    "name": "Sticky Bombs",
+    "pickup": "\"Egg sack bombs!\"",
+    "meta": [
+      "Type: Passive, Bomb Modifier",
+      "Item Pool: Item Room, Greed Mode Item Room, Bomb Beggar, Bomb Beggar"
+    ],
+    "description": [
+      "When one of your bombs kills an enemy, a bunch of blue spiders are spawned to fight by your side.",
+      "This item also causes your bombs to stick to enemies."
+    ]
+  },
+  "Epiphora": {
+    "name": "Epiphora",
+    "pickup": "\"Intensifying tears\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Shooting in one direction increases your fire rate until a cap is reached.",
+      "The maximum effect is to halve your delay, which takes roughly 10 seconds to achieve.",
+      "The accuracy of your tears is also reduced as your fire rate increases.",
+      "As soon as you change direction or interupt shooting, your fire rate is reset to its normal amount."
+    ]
+  },
+  "Continuum": {
+    "name": "Continuum",
+    "pickup": "\"Transcendent tears\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "+2.25 Range Up.",
+      "+1.5 Tear Height.",
+      "Tears will now travel through walls and appear out of the opposite wall, similar to a portal-type mechanic.",
+      "Your tears can now also travel over rocks and objects in the environment."
+    ]
+  },
+  "Mr. Dolly": {
+    "name": "Mr. Dolly",
+    "pickup": "\"Range + tears up\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Boss Room"
+    ],
+    "description": [
+      "+0.7 Tears Up.",
+      "+5.25 Range Up.",
+      "+0.5 Tear Height.",
+      "Spawns 3 random types of hearts on the floor when picked up"
+    ]
+  },
+  "Curse of The Tower": {
+    "name": "Curse of The Tower",
+    "pickup": "\"You feel cursed...\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Red Chest, Curse Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Causes Isaac to spawn 6 troll bombs on the floor every time he gets hit, similar to the Anarchist Cookbook mechanic."
+    ]
+  },
+  "Charged Baby": {
+    "name": "Charged Baby",
+    "pickup": "\"Bbbzzzzzt!\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Shop, Greed Mode Shop"
+    ],
+    "description": [
+      "A familiar baby that has a random chance to drop a battery pickup or freeze all enemies in the room for a short while.",
+      "Charged Baby also has a chance to add one charge to your spacebar item.",
+      "These effects can only occur while in a hostile room with enemies."
+    ]
+  },
+  "Dead Eye": {
+    "name": "Dead Eye",
+    "pickup": "\"Accuracy brings power!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Gives Isaac a +12.5% or +25% damage up for every tear that successfully hits an enemy.",
+      "Most enemies give the +25% bonus, however some objects (e.g. successfully hitting a fire place) will give the smaller +12.5% bonus",
+      "The bonus from Dead Eye maxes out at double your damage (+100%).",
+      "If a tear misses an enemy, there is a chance for the multiplier to be reset back to 1.",
+      "Piercing shots work with this item and multiple hits with a single tear will each give a damage bonus."
+    ]
+  },
+  "Holy Light!": {
+    "name": "Holy Light!",
+    "pickup": "\"Holy shot!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room, Angel Room"
+    ],
+    "description": [
+      "Isaac has a random chance to fire a Holy tear, which when it hits an enemy, will spawn a Crack the Sky style light beam on the same enemy, dealing damage.",
+      "The beams from this item deal damage equal to 400% of your tear damage (4x damage multiplier for the beams only).",
+      "The chance to fire a Holy tear is affected by your luck stat, maxing out at a 50% chance."
+    ]
+  },
+  "Host Hat": {
+    "name": "Host Hat",
+    "pickup": "\"Nice hat!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "A familiar host that sits on Isaac's head and has a random chance to deflect some tears so that they don't hit you.",
+      "Causes you to become immune to explosions. Stomp damage (i.e. Mom's Foot boss) counts as an explosion and is therefore prevented by Host Hat."
+    ]
+  },
+  "Restock": {
+    "name": "Restock",
+    "pickup": "\"Never ending stores!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Shop, Beggar"
+    ],
+    "description": [
+      "Causes your shops to instantly restock their items when you buy them."
+    ]
+  },
+  "Bursting Sack": {
+    "name": "Bursting Sack",
+    "pickup": "\"Spider love\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Spider enemies no longer target or deal contact damage to Isaac.",
+      "This is very similar to a Skatole for spiders instead of flies."
+    ]
+  },
+  "No. 2": {
+    "name": "No. 2",
+    "pickup": "\"Uh oh...\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Continuously firing or charging tears for 3 seconds causes Isaac to drop a Butt Bomb",
+      "Only 1 Butt Bomb can be dropped per charge, so you'll need to stop firing then start again to drop another one.",
+      "Butt Bombs explode for 50 damage like normal bombs, but also deal 10 damage to all enemies in the room and daze them for a short period of time."
+    ]
+  },
+  "Pupula Duplex": {
+    "name": "Pupula Duplex",
+    "pickup": "\"Wide shot\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Transforms Isaac's tears into a wide arc shape which gives them a much larger hitbox.",
+      "Gives Isaac spectral tears which allows them to travel through objects in the environment (i.e. rocks)."
+    ]
+  },
+  "Pay To Play": {
+    "name": "Pay To Play",
+    "pickup": "\"Money talks\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Shop, Greed Mode Item Room, Greed Mode Shop"
+    ],
+    "description": [
+      "+5 coins.",
+      "This item turns all doors that require a key into doors which need a coin to enter instead.",
+      "This affects shops, item rooms, libraries and other key doors."
+    ]
+  },
+  "Eden's Blessing": {
+    "name": "Eden's Blessing",
+    "pickup": "\"Your future shines brighter\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Blue Womb (Hush) with Eden.",
+    "description": [
+      "+0.7 Tears Up.",
+      "Gives you a random item at the start of your next run (You need to start a fresh run to receive the item)"
+    ]
+  },
+  "Friendly Ball": {
+    "name": "Friendly Ball",
+    "pickup": "\"Gotta fetch 'em all!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge Time: 3 rooms.",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "When used, can be thrown at enemies to capture them (similar to a Poké Ball).",
+      "After capturing an enemy, the next use of the Friendly Ball will re-spawn the same enemy as a friendly companion which will attack other enemies.\n      ",
+      "The companion will persist between rooms and floors until it dies by taking enough damage."
+    ]
+  },
+  "Tear Detonator": {
+    "name": "Tear Detonator",
+    "pickup": "\"Remote tear detonation\"",
+    "meta": [
+      "Type: Active",
+      "Recharge Time: 1 room.",
+      "Item Pool: Shop, Greed Mode Item Room"
+    ],
+    "description": [
+      "When used, will detonate any tears currently on the screen and cause each one to split into 6 more tears which will fire in a circle, similar to Tammy's Head."
+    ]
+  },
+  "Lil Gurdy": {
+    "name": "Lil Gurdy",
+    "pickup": "\"A gurd of your own!\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Gives Isaac a familiar Gurdy that will charge around the room dealing contact damage to enemies.",
+      "The Gurdy is charged by holding down the fire button and letting go. The longer the button is held the faster Gurdy will fling itself across the screen.",
+      "Lil Gurdy can glide over the top of objects and obstacles in the room."
+    ]
+  },
+  "Bumbo": {
+    "name": "Bumbo",
+    "pickup": "\"Bumbo want coin!\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room, Beggar"
+    ],
+    "description": [
+      "A beggar head which floats around the room and picks up any near-by coins. Every 6 coins Bumbo will evolve to a new form except for level 4 which takes 12 coins.",
+      "Level 2: Bumbo gains a body and crawls around the room, sometimes dropping random pickups.",
+      "Level 3: It now fires tears in the same direction Isaac does.",
+      "Level 4: Bumbo no longer fires tears but instead will chase enemies slowly and deal contact damage. It will also sometimes randomly drop bombs.",
+      "After reaching level 4 (and at a much lower chance before level 4), Bumbo will also continue to collect coins and drop random pickups, similar to the Bum Friend item, but can also drop pedestal items very rarely.\n      "
+    ]
+  },
+  "D12": {
+    "name": "D12",
+    "pickup": "\"Rerolls rocks\"",
+    "meta": [
+      "Type: Active",
+      "Recharge Time: 3 rooms",
+      "Item Pool: Item Room, Greed Mode Shop"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Blue Womb (Hush) with Cain.",
+    "description": [
+      "When used, the D12 re-rolls any rocks into another random type of object (e.g. poop, pots, TNT, red poop, stone blocks etc.)"
+    ]
+  },
+  "Censer": {
+    "name": "Censer",
+    "pickup": "\"Peace be with you\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Angel Room, Greed Mode Angel Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Greed Mode with Maggy.",
+    "description": [
+      "Gives Isaac a familiar golden Censer which creates a huge aura of light that slows down any enemies inside it."
+    ]
+  },
+  "Key Bum": {
+    "name": "Key Bum",
+    "pickup": "\"He wants your keys!\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room, Secret Room, Key Beggar"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Greed Mode with Lazarus.",
+    "description": [
+      "A familiar beggar similar to Bum Friend that follows Isaac and collects keys, giving random chests in return.",
+      "One of the 3 items required to create the Super Bum familiar transformation."
+    ]
+  },
+  "Rune Bag": {
+    "name": "Rune Bag",
+    "pickup": "\"Rune generator\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room, Secret Room, Greed Mode Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating the Isaac boss with Lilith.",
+    "description": [
+      "A bag that follows Isaac and drops a random mystic rune every 3 rooms."
+    ]
+  },
+  "Seraphim": {
+    "name": "Seraphim",
+    "pickup": "\"Sworn friend\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room, Angel Room, Greed Mode Angel Room"
+    ],
+    "description": [
+      "A familiar angel which follows Isaac and fires Sacred Heart tears which deal 10 damage at -25% shot speed and a reduced fire rate."
+    ]
+  },
+  "Betrayal": {
+    "name": "Betrayal",
+    "pickup": "\"Turn your enemy\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room, Devil Room, Greed Mode Devil Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Blue Womb (Hush) with Judas.",
+    "description": [
+      "Every time Isaac takes damage, a charm effect is applied to every enemy in the room, causing them to attack each other rather than Isaac.",
+      "The effect will not trigger if there are less than 2 enemies in the room."
+    ]
+  },
+  "Zodiac": {
+    "name": "Zodiac",
+    "pickup": "\"The heavens will change you\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Greed Mode with The Lost.",
+    "description": [
+      "Zodiac will give you a random zodiac item effect that changes after every floor.",
+      "Possible item effects include: Taurus, Aries, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Gemini or Pisces."
+    ]
+  },
+  "Serpent's Kiss": {
+    "name": "Serpent's Kiss",
+    "pickup": "\"The kiss of death\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Satan with Lilith.",
+    "description": [
+      "Tears now have a random chance to apply a poison effect, causing 4 or 6 damage per tick to enemies (Similar to The Common Cold item).\n      ",
+      "Isaac now deals poison damage on contact with enemies similar to The Virus item (Damage over time 4 or 6 per tick).",
+      "Enemies that were poisoned have a chance to drop a black sin heart when killed."
+    ]
+  },
+  "Marked": {
+    "name": "Marked",
+    "pickup": "\"Directed tears\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Isaac will now fire tears automatically directed at a red target on the ground which is controlled by the player.",
+      "This allows for a full 360 degree tear firing radius.",
+      "Can be overridden by other tear modifiers such as Mom's Knife or Brimstone.",
+      "+0.7 Tears Up.",
+      "+0.3 Tear Height.",
+      "+3.15 Range Up.",
+      "Has no effect with Lilith's Incubus"
+    ]
+  },
+  "Tech X": {
+    "name": "Tech X",
+    "pickup": "\"Laser ring tears\"",
+    "meta": [
+      "Type: Passive, Tear modifier",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Tears are replaced with the ability to charge and fire a laser ring that travels across the room.",
+      "The size of the ring will depend on how long you charge it.",
+      "The laser ring does damage equal to your normal tears rapidly to any enemies inside the ring."
+    ]
+  },
+  "Ventricle Razor": {
+    "name": "Ventricle Razor",
+    "pickup": "\"Short cutter\"",
+    "meta": [
+      "Type: Active",
+      "Recharge Time: Instant",
+      "Item Pool: Shop"
+    ],
+    "description": [
+      "Allows you to create one brown tunnel and one blue tunnel in the floor, that can be used to teleport between wherever you placed each one.\n      ",
+      "This item will let you port out of the devil room but not back into it.",
+      "Very useful in the boss rush and challenge rooms."
+    ]
+  },
+  "Tractor Beam": {
+    "name": "Tractor Beam",
+    "pickup": "\"Controlled tears\"",
+    "meta": [
+      "Type: Passive, Tear Modifier",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Isaac's tears now travel directly forwards following a beam of light, but will also move sideways based on your player movement.",
+      "+0.5 Tears Up.",
+      "+5.25 Range Up.",
+      "+0.16 Shot Speed Up.",
+      "+0.5 Tear Height.",
+      "Allows for more accurate correction when firing tears, as their direction can be controlled even after they have been fired.",
+      "If you switch the direction in which you are firing tears, the beam of light and all your tears will also be transported to the new direction\n      "
+    ]
+  },
+  "God's Flesh": {
+    "name": "God's Flesh",
+    "pickup": "\"Shrink shot!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Tears now have a random chance to apply a shrinking effect, causing enemies to shrink in size and also run away from Isaac.",
+      "Shrunk enemies can be crushed and killed by walking over them."
+    ]
+  },
+  "Maw of The Void": {
+    "name": "Maw of The Void",
+    "pickup": "\"Consume thy enemy!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Devil Room, Greed Mode Devil Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Blue Womb (Hush) with Azazel.",
+    "description": [
+      "+1.0 Damage Up.",
+      "+0.5 Tear Height.",
+      "After firing tears for 3 seconds, a red cross appears on Isaac's head that, upon releasing the fire button, creates a black ring which deals a lot of damage to any enemies inside it.",
+      "The ring deals damage equal to your tear damage rapidly to any enemies in contact with it.",
+      "Enemies killed with the black ring have a chance to drop Black hearts.",
+      "You have to keep the fire button held down for the full 3 seconds to cause this effect."
+    ]
+  },
+  "Spear of Destiny": {
+    "name": "Spear of Destiny",
+    "pickup": "\"Your destiny\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Angel Room, Greed Mode Angel Room"
+    ],
+    "description": [
+      "In addition to tears, Isaac now holds a spear infront of him which deals damage equal to 2 times your tear damage.",
+      "The spear cannot be thrown like Mom's Knife but deals damage while it is in contact with an enemy."
+    ]
+  },
+  "Explosivo": {
+    "name": "Explosivo",
+    "pickup": "\"Sticky bomb shot!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Tears now have a random chance to become sticky bombs, which will attach to enemies and explode after a few seconds.",
+      "The bomb explosion deals your tear damage + 60."
+    ]
+  },
+  "Chaos": {
+    "name": "Chaos",
+    "pickup": "\"!!!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Shop, Greed Mode Shop"
+    ],
+    "description": [
+      "Causes all item pedestals to be chosen from a random item pool instead of the pre-defined ones which normally exist.",
+      "If an item is chosen from an exhausted pool, it will spawn a Breakfast item instead.",
+      "When picked up also drops between 1-6 random pickups on the floor."
+    ]
+  },
+  "Spider Mod": {
+    "name": "Spider Mod",
+    "pickup": "\"Mod buddy!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Shop, Greed Mode Shop"
+    ],
+    "description": [
+      "A familiar grey spider that wanders around and allows you to see your tear damage and the health bars of all enemies.",
+      "The spider will inflict a random status effect on any enemies it comes into contact with (e.g. slow, shrink, fear).",
+      "Spider Mod will also randomly drop battery consumables.",
+      "For the sake of simplicity for players, all damage values displayed are multiplied by 10 and rounded to the nearest number. The actual damage values are in reality about 1/10.",
+      "This item is a reference to Spider853, creator of Spidermod for the original game and one of the lead developers that worked on Rebirth and Afterbirth."
+    ]
+  },
+  "Farting Baby": {
+    "name": "Farting Baby",
+    "pickup": "\"He farts!\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Blue Womb (Hush) with Isaac.",
+    "description": [
+      "A familiar that follows Isaac and blocks tears.",
+      "If a tear hits Farting Baby, there is a high chance for it to fart, which deals damage to nearby enemies and charms them."
+    ]
+  },
+  "GB Bug": {
+    "name": "GB Bug",
+    "pickup": "\"Game breaking bug, right away!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Secret Room, Greed Mode Shop"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Greed Mode with Eden.",
+    "description": [
+      "A glitch familiar that bounces around the room and applies a random status effect to any enemies it comes into contact with (e.g. slow, burning)",
+      "If the GB Bug passes over a consumable, it has a chance to reroll it into another random consumable."
+    ]
+  },
+  "D8": {
+    "name": "D8",
+    "pickup": "\"Reroll stats\"",
+    "meta": [
+      "Type: Active",
+      "Recharge Time: 4 Rooms",
+      "Item Pool: Item Room, Greed Mode Shop"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Challenge #28 (Pride Day).",
+    "description": [
+      "When used, the D8 rerolls all of your stats!",
+      "Will only effect your damage, tears, range and speed stats."
+    ]
+  },
+  "Purity": {
+    "name": "Purity",
+    "pickup": "\"Aura stat boost\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room, Greed Mode Angel Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Blue Womb (Hush) with Maggy.",
+    "description": [
+      "Purity will boost one of Isaac's stats depending on the colour of the aura around him.",
+      "When you take damage, the aura will be removed and replaced with another random one when you enter the next room.",
+      "Colour code is as follows:",
+      "Red = +4.0 Damage",
+      "Blue = -4 Tear Delay",
+      "Yellow = +0.5 Speed Up",
+      "Orange = +7.5 Range Up"
+    ]
+  },
+  "Athame": {
+    "name": "Athame",
+    "pickup": "\"Call to the void\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Devil Room, Curse Room, Greed Mode Devil Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Blue Womb (Hush) with Eve.",
+    "description": [
+      "Now when you take damage, a black ring will appear around Isaac that damages any enemies in contact with it.",
+      "Enemies killed with the black ring have a chance to drop black hearts."
+    ]
+  },
+  "Empty Vessel": {
+    "name": "Empty Vessel",
+    "pickup": "\"I reward an empty vessel\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Devil Room, Greed Mode Devil Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Blue Womb (Hush) with Lazarus.",
+    "description": [
+      "+2 Black Hearts",
+      "When Isaac has no red hearts, this item gives Isaac the ability to fly and chance to trigger a shield that nullifies all types of damage for 10 seconds.",
+      "As soon as Isaac has half a red heart or more, this item deactivates."
+    ]
+  },
+  "Evil Eye": {
+    "name": "Evil Eye",
+    "pickup": "\"Eye shot!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Greed Mode with Cain.",
+    "description": [
+      "While firing tears this item gives you a chance to fire an eye across the screen with a very slow shot speed, which will fire tears of its own in the same direction as Isaac.",
+      "The evil eye shots will be destroyed if they come into contact with enemies or obstacles."
+    ]
+  },
+  "Lusty Blood": {
+    "name": "Lusty Blood",
+    "pickup": "\"Their blood brings rage!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Greed Mode with Samson.",
+    "description": [
+      "Each time Isaac kills an enemy, you get a temporary damage up which lasts for the current room.",
+      "Each subsequent kill will stack further damage up to a maximum of +5 Damage Up after 9 kills.",
+      "This item is the same principle as the Bloody Lust item from the original flash game."
+    ]
+  },
+  "Cambion Conception": {
+    "name": "Cambion Conception",
+    "pickup": "\"Feed them hate\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Devil Room, Greed Mode Devil Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating ??? with Lilith.",
+    "description": [
+      "After taking enough damage you will gain a permanent demon familiar.",
+      "Possible familiars include: Dark Bum, Demon Baby, Leech, Lil' Brimstone, Succubus, Incubus.",
+      "The effect is shown visually in 3 stages with the character's belly getting larger each time until it finally gives birth to a familiar.\n      ",
+      "This item is the demonic counterpart to Immaculate Conception.",
+      "Cambion Conception cannot grant more than 4 familiars in total.",
+      "Lilith starts with this item."
+    ]
+  },
+  "Immaculate Conception": {
+    "name": "Immaculate Conception",
+    "pickup": "\"Feed them love\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Angel Room, Greed Mode Angel Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Boss Rush with Lilith.",
+    "description": [
+      "After picking up enough hearts, Isaac gains a permanent angelic familiar.",
+      "Possible familiars include: Holy Water, Guardian Angel, Sworn Protector, The Relic and Seraphim",
+      "It is possible to get multiple followers by continuing to pick up hearts.",
+      "This item is the angelic counterpart to Cambion Conception."
+    ]
+  },
+  "More Options": {
+    "name": "More Options",
+    "pickup": "\"There are even more options!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Shop"
+    ],
+    "description": [
+      "Two items now spawn in each of your item rooms, however only one can be taken and the other will disappear"
+    ]
+  },
+  "Crown of Light": {
+    "name": "Crown of Light",
+    "pickup": "\"The untainted gain power\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Angel Room, Greed Mode Angel Room"
+    ],
+    "description": [
+      "+2 Soul Hearts.",
+      "A crown that replaces normal tears with blue diamond tears while you don't have any empty red heart containers.",
+      "While the effect is active, tears do double damage.",
+      "The crown will glow blue while active, if inactive it will appear grey.",
+      "The effect will also deactivate for the rest of the current room when you take damage, regardless of your health."
+    ]
+  },
+  "Deep Pockets": {
+    "name": "Deep Pockets",
+    "pickup": "\"More stuff to carry!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Shop, Greed Mode Item Room, Greed Mode Shop"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating The Chest floor with Keeper.",
+    "description": [
+      "Allows you to carry two cards/pills/runes at the same time."
+    ]
+  },
+  "Succubus": {
+    "name": "Succubus",
+    "pickup": "\"Damage booster\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Devil Room, Demon Beggar"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating The Lamb with Lilith.",
+    "description": [
+      "A flying familiar that bounces around the room with a damaging aura, dealing rapid damage to any enemies inside it and boosting Isaac's tear damage.",
+      "While standing in the black aura, Isaac has a temporary 1.5x damage multiplier (this will stack if you have more than one Succubus')"
+    ]
+  },
+  "Fruit Cake": {
+    "name": "Fruit Cake",
+    "pickup": "\"Rainbow effects!\"",
+    "meta": [
+      "Type: Passive, Tear Modifier",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "Gives you a different tear effect with every tear that you fire.",
+      "Tear effects include: Anti-Gravity, GodHead, Proptosis, Tiny Planet, Holy Light, Soy Milk, Cricket's Body, Explosivo, Continuum, My Reflection, Ring Worm, Hook Worm, Wiggle Worm, Flat Worm.",
+      "With Dr. Fetus, this item will also cycle through random Bomb Modifiers (e.g. Butt Bombs, Hot Bombs)."
+    ]
+  },
+  "Teleport 2.0": {
+    "name": "Teleport 2.0",
+    "pickup": "\"I-teleport!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge Time: 4 rooms",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "When used will teleport you to another random room that has not been explored yet.",
+      "After all the normal rooms have been explored, the hierarchy of rooms chosen is: Super Secret Room, Shop, Item Room, Secret Room, Curse Room, Sacrifice Room, Devil/Angel Room, I Am Error.",
+      "This ordering means a Devil and I Am Error room can both be forced if all others have been visited.",
+      "If used in a normal room with enemies it will teleport you out and back into the exact same room."
+    ]
+  },
+  "Black Powder": {
+    "name": "Black Powder",
+    "pickup": "\"Spin the black circle!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Devil Room, Greed Mode Devil Room"
+    ],
+    "description": [
+      "Walking in a circle will spawn a pentagram symbol on the floor, which deals 10 damage per tick to any enemies inside it.",
+      "The trail of black powder left on the floor will quickly disappear, meaning you are limited on the size of the pentagram symbol you can create."
+    ]
+  },
+  "Kidney Bean": {
+    "name": "Kidney Bean",
+    "pickup": "\"Love toots!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 2 Rooms",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "When used, applies the charm effect to any enemies in close range.",
+      "Charmed enemies will prioritize attacking other enemies in the room, otherwise they will still attack Isaac."
+    ]
+  },
+  "Glowing Hour Glass": {
+    "name": "Glowing Hour Glass",
+    "pickup": "\"Turn back time\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 2 rooms",
+      "Item Pool: Item Room, Shop"
+    ],
+    "description": [
+      "When used, this item will rewind time and put you back in the previous room, in the same state you were in at that moment.",
+      "This means any damage taken or consumables used in the current room will be reset back to the previous state."
+    ]
+  },
+  "Circle of Protection": {
+    "name": "Circle of Protection",
+    "pickup": "\"Protect me from myself\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Angel Room, Greed Mode Angel Room"
+    ],
+    "description": [
+      "Gives Isaac a large white halo around him, that deals a bit of damage to any enemies in contact with the ring.",
+      "Every time an enemy bullet enters the ring, there is a chance it will reflect a homing tear back at the enemy."
+    ]
+  },
+  "Sack Head": {
+    "name": "Sack Head",
+    "pickup": "\"More sacks!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Shop"
+    ],
+    "description": [
+      "All bomb, coin, key, and battery pickups pickups now have a chance to be replaced with a sack that contains multiple pickups.",
+      "Can lead to game-breaking combinations with the D20 due to the amount of consumables and batteries spawned by the item sacks."
+    ]
+  },
+  "Night Light": {
+    "name": "Night Light",
+    "pickup": "\"Scared of the dark?\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Shop, Greed Mode Item Room"
+    ],
+    "description": [
+      "Gives Isaac a cone of light infront of him that slows any enemies inside it and their tears.",
+      "The light faces the direction that you are facing, not the direction you are firing.",
+      "Removes Curse of Darkness for the current floor, if picked up on a floor where the curse is active."
+    ]
+  },
+  "Obsessed Fan": {
+    "name": "Obsessed Fan",
+    "pickup": "\"Follows my every move...\"\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "A purple familiar fly that follows your exact movement on a 3 second delay and deals contact damage to enemies."
+    ]
+  },
+  "Mine Crafter": {
+    "name": "Mine Crafter",
+    "pickup": "\"Booom!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 1 room",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "When used, places an explosive TNT barrel next to you.",
+      "The TNT barrel can be pushed and used to explode rocks or damage enemies.",
+      "If used a second time in the same room while the last TNT barrel is still there, it will remotely explode the first TNT and not spawn another.\n      "
+    ]
+  },
+  "PJs": {
+    "name": "PJs",
+    "pickup": "\"You feel cozy\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Boss Room"
+    ],
+    "description": [
+      "+4 Soul Hearts",
+      "Fully restores your red health."
+    ]
+  },
+  "Head of the Keeper": {
+    "name": "Head of the Keeper",
+    "pickup": "\"Penny tears!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Gold Chest, Greed Mode Gold Chest, Dead shopkeeper"
+    ],
+    "description": [
+      "Isaac's tears become coins and now have a chance to drop pennies on the floor upon successfully hitting an enemy.",
+      "Has a chance to drop when exploding a dead shopkeeper and also appear in the Gold Chest pool."
+    ]
+  },
+  "Papa Fly": {
+    "name": "Papa Fly",
+    "pickup": "\"Turret follower\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "A familiar blue fly that will follow Isaac's movement pattern but delayed by 3 seconds.",
+      "Papa Fly will fire tears at nearby enemies that deal damage equal to Isaac's tear damage."
+    ]
+  },
+  "Multidimensional Baby": {
+    "name": "Multidimensional Baby",
+    "pickup": "\"ydduB Buddy\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room, Greed Mode Item Room, Devil Room, Greed Mode Devil Room"
+    ],
+    "description": [
+      "A familiar baby that will follow your movement pattern on a 3 second delay. Tears that pass through the baby will double up and increase in damage while flashing black & white."
+    ]
+  },
+  "Glitter Bombs": {
+    "name": "Glitter Bombs",
+    "pickup": "\"Prize bombs!\"",
+    "meta": [
+      "Type: Passive, Bomb Modifier",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Isaac's normal bombs become pink and causes them to drop random pickups when they explode (e.g. keys, coins, bombs)."
+    ]
+  },
+  "My Shadow": {
+    "name": "My Shadow",
+    "pickup": "\"Me! And my shaaaadow!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Devil Room, Greed Mode Devil Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Greed Mode with Judas.",
+    "description": [
+      "Each time you take damage, My Shadow will apply a fear effect to all enemies in the room and spawn a familiar black charger that will attack for you.",
+      "The charger will be killed if it is damaged too much."
+    ]
+  },
+  "Jar of Flies": {
+    "name": "Jar of Flies",
+    "pickup": "\"Gotta catch 'em all?\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: Instant",
+      "Item Pool: Shop, Greed Mode Item Room, Greed Mode Shop"
+    ],
+    "description": [
+      "Every time you kill an enemy a fly will be added to the Jar, allowing you to stack up to 20.",
+      "Using the Jar of Flies will release all the flies that are currently in the jar as friendly flies that will damage enemies."
+    ]
+  },
+  "Lil Loki": {
+    "name": "Lil Loki",
+    "pickup": "\"4-way buddy!\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "A Loki familiar that follows Isaac and shoots tears 4 tears in a cross pattern."
+    ]
+  },
+  "Milk!": {
+    "name": "Milk!",
+    "pickup": "\"Dont cry over it...\"",
+    "meta": [
+      "Type: Passive, Familiar",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "description": [
+      "Gives Isaac a familiar glass of milk that follows him and spills on the floor upon taking damage.",
+      "After being spilt, the milk gives you a -2 Tear Delay (Tears up) for the rest of the room."
+    ]
+  },
+  "D7": {
+    "name": "D7",
+    "pickup": "\"Reroll rewards!\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 3 rooms",
+      "Item Pool: Item Room"
+    ],
+    "description": [
+      "When used, the D7 will restart the current room and bring back all enemies once again, enabling you to farm rewards that spawn at the end after beating the room.",
+      "Can be used to generate infinite consumable combinations, gaining as many coins/keys/bombs as you need.",
+      "Will teleport you to out of the room if used in a Boss Room or Devil Room.",
+      "If used in a greed fight it can be used to reroll the room into a Shop."
+    ]
+  },
+  "Binky": {
+    "name": "Binky",
+    "pickup": "\"Memories...\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Boss Room"
+    ],
+    "description": [
+      "+1 Soul heart",
+      "+0.7 Tears Up.",
+      "Makes Isaac very small like a baby, reducing his hitbox size."
+    ]
+  },
+  "Mom's Box": {
+    "name": "Mom's Box",
+    "pickup": "\"What's inside?\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 4 rooms",
+      "Item Pool: Shop, Greed Mode Shop"
+    ],
+    "description": [
+      "When used, Mom's Box will drop a random trinket on the ground.",
+      "+1 Luck while held.",
+      "While held, doubles the effect of trinkets which make sense to be doubled (e.g. +4 damage from Curved Horn instead of 2, -4 Tear Delay from Cancer instead of 2)"
+    ]
+  },
+  "Kidney Stone": {
+    "name": "Kidney Stone",
+    "pickup": "\"Matt's kidney stone\"",
+    "meta": [
+      "Type: Passive",
+      "Item Pool: Item Room, Greed Mode Item Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Challenge #29 (Onan's Streak).",
+    "description": [
+      "Randomly while firing tears, Isaac will stop firing and turn red, where he will charge and release a lot of 'tears' in one go. In the burst of tears is a kidney stone which deals a lot of damage.",
+      "-0.2 Speed Down.",
+      "-15 Range Down.",
+      "+2.0 Tear height ",
+      "The large decrease in range and tear height increase cause this item to overall be a slight range down."
+    ]
+  },
+  "Mega Blast": {
+    "name": "Mega Blast",
+    "pickup": "\"Laser breath\"",
+    "meta": [
+      "Type: Active",
+      "Recharge time: 12 rooms.",
+      "Item Pool: Devil Room, Greed Mode Devil Room"
+    ],
+    "unlock": "UNLOCK: Unlock this item by beating Mega Satan with every character.",
+    "description": [
+      "Upon use, fires a huge Mega Satan laser for 15 seconds, dealing massive damage to anything in its path and pushing Isaac back by the force.\n      ",
+      "The laser persists for the entire 15 seconds even between rooms and floors.",
+      "This item appears in the Devil Room but is weighted to be about 5 times rarer than all other devil room items."
+    ]
+  }
+}

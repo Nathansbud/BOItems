@@ -1,0 +1,352 @@
+{
+  "Meconium": {
+    "name": "Meconium",
+    "pickup": "\"Eww\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this trinket by defeating Greedier Mode with ???.",
+    "description": [
+      "While held you have an increased chance for Black Poops to spawn, which deal damage to all enemies in the room when destroyed",
+      "Gives The Poop active item a chance to spawn a Black Poop too"
+    ]
+  },
+  "Cracked Crown": {
+    "name": "Cracked Crown",
+    "pickup": "\"Boost Stats\"",
+    "meta": [],
+    "description": [
+      "Gives you extra stat upgrades based on the items you've already collected that have stat increases, at +33% of the item's original increase",
+      "Also gives you a +0.2 Tears Up and -1 Tear Delay even if you don't have an item that increases your tears stat"
+    ]
+  },
+  "Used Diaper": {
+    "name": "Used Diaper",
+    "pickup": "\"You Stink\"",
+    "meta": [],
+    "description": [
+      "While held, gives the Skatole effect only in certain rooms, which will turn hostile flies to neutral and stop others from shooting.",
+      "Attack, Dart and Ring Flies turn into neutral Black Flies and Pooters and Fat Flies will no longer fire at you."
+    ]
+  },
+  "Fish Tail": {
+    "name": "Fish Tail",
+    "pickup": "\"It also stinks!\"",
+    "meta": [],
+    "description": [
+      "Items and trinkets which generate blue flies and spiders will have double the effect, causing twice as many to spawn"
+    ]
+  },
+  "Black Tooth": {
+    "name": "Black Tooth",
+    "pickup": "\"It looks dead\"",
+    "meta": [],
+    "description": [
+      "Some tears will randomly become a black tooth, that deal double your normal tear damage and can poison enemies"
+    ]
+  },
+  "Ouroboros Worm": {
+    "name": "Ouroboros Worm",
+    "pickup": "\"Foop foop!\"",
+    "meta": [],
+    "description": [
+      "Tears become spectral and travel in a large spiral pattern",
+      "+4.0 Range Up"
+    ]
+  },
+  "Tonsil": {
+    "name": "Tonsil",
+    "pickup": "\"Sick...\"",
+    "meta": [],
+    "description": [
+      "Every time you take damage you have a very small chance to gain a Tonsil familiar, which follows you and blocks enemy projectiles",
+      "This effect can happen twice before the Tonsil trinket is destroyed",
+      "Does not deal contact damage to enemies",
+      "The Tonsil familiar counts as a passive item but does not appear in any item pools, meaning this trinket is the only way to find it (aside from starting with it as Eden) and make it appear in your Items Collection page."
+    ]
+  },
+  "Nose Goblin": {
+    "name": "Nose Goblin",
+    "pickup": "\"Seems magic...\"",
+    "meta": [],
+    "description": [
+      "Your tears have a random chance to become booger tears",
+      "Booger tears stick on to enemies and deal periodic poison damage until they die or 60 seconds passes. Each tick of poison damage is equal to your normal tear damage",
+      "The boogers will have a homing effect"
+    ]
+  },
+  "Super Ball": {
+    "name": "Super Ball",
+    "pickup": "\"Boing!\"",
+    "meta": [],
+    "description": [
+      "Some random tears will gain the Rubber Cement effect and become bouncy"
+    ]
+  },
+  "Vibrant Bulb": {
+    "name": "Vibrant Bulb",
+    "pickup": "\"It needs power\"",
+    "meta": [],
+    "description": [
+      "Grants +0.25 Speed, +0.75 Range, +0.1 Shot Speed, +0.2 Tears, +0.5 Damage and +1 Luck when Isaac's active item is fully charged",
+      "Infinite use items such as Potato Peeler count as charged and provide the bonus from this trinket"
+    ]
+  },
+  "Dim Bulb": {
+    "name": "Dim Bulb",
+    "pickup": "\"I think it's broken\"",
+    "meta": [],
+    "description": [
+      "Grants +0.5 Speed, +1.5 Range, +0.3 Shot Speed, +0.4 Tears, +1.5 Damage when Isaac's active item is completely uncharged",
+      "One-time use items such as Mama Mega count as uncharged and provide the bonus from this trinket."
+    ]
+  },
+  "Fragmented Card": {
+    "name": "Fragmented Card",
+    "pickup": "\"Double moon\"",
+    "meta": [],
+    "description": [
+      "Gives you another secret room on each new floor while held",
+      "Does not spawn more than one super secret room, only the normal secret room"
+    ]
+  },
+  "Equality!": {
+    "name": "Equality!",
+    "pickup": "\"=\"",
+    "meta": [],
+    "description": [
+      "When you have the same amount of coins, bombs and keys, half consumables turn into their doubled version",
+      "This effect works for any number of consumables, including 0 and 99, as long as the count for coins/keys/bombs is equal"
+    ]
+  },
+  "Wish Bone": {
+    "name": "Wish Bone",
+    "pickup": "\"Make a wish\"",
+    "meta": [],
+    "description": [
+      "Every time you take damage you have a very small chance to spawn a random pedestal item",
+      "When the effect triggers, the trinket is destroyed"
+    ]
+  },
+  "Bag Lunch": {
+    "name": "Bag Lunch",
+    "pickup": "\"I wonder what it is\"",
+    "meta": [],
+    "description": [
+      "Every time you take damage you have a very small chance to spawn the Lunch item, which gives +1 HP up",
+      "When the effect triggers, this trinket is destroyed"
+    ]
+  },
+  "Lost Cork": {
+    "name": "Lost Cork",
+    "pickup": "\"Uncorked\"",
+    "meta": [],
+    "description": [
+      "Increases the radius of any creep you produce"
+    ]
+  },
+  "Crow Heart": {
+    "name": "Crow Heart",
+    "pickup": "\"Drain me\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this item by beating Greedier mode with Eve.",
+    "description": [
+      "While held, any damage taken will ignore soul hearts and black hearts, causing your red heart containers to be depleted first",
+      "While at 1/2 of a red heart, it will begin to remove your soul hearts and black hearts on damage again."
+    ]
+  },
+  "Walnut": {
+    "name": "Walnut",
+    "pickup": "\"Thats a hard nut to crack!\"",
+    "meta": [],
+    "description": [
+      "The Walnut has a chance to break when taking damage from an explosion. If it does, it will drop a random trinket, coin, heart and key",
+      "The Walnut trinket is destroyed once the effect activates"
+    ]
+  },
+  "Duct Tape": {
+    "name": "Duct Tape",
+    "pickup": "\"Stuck!\"",
+    "meta": [],
+    "description": [
+      "Causes any orbitals you have to stop moving while held",
+      "Stops shooting familiars from moving (including Lilith's Incubus)",
+      "Some familiars with irregular movement are not affected by Duct Tape, such as Abel, BBF, Bumbo, Guppy's Hair Ball, Lil Gurdy, Punching Bag, Robo-Baby 2.0, Succubus"
+    ]
+  },
+  "Silver Dollar": {
+    "name": "Silver Dollar",
+    "pickup": "\"Feels lucky...\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this item by defeating Delirium in The Void floor with Cain.",
+    "description": [
+      "While held, shops will now appear on the womb floors (The Womb, Utero and Scarred Womb)"
+    ]
+  },
+  "Bloody Crown": {
+    "name": "Bloody Crown",
+    "pickup": "\"Drips with blood...\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this item by defeating Delirium in The Void floor with Samson.",
+    "description": [
+      "While held, item rooms now appear on the womb floors (The Womb, Utero and Scarred Womb)"
+    ]
+  },
+  "Pay To Win": {
+    "name": "Pay To Win",
+    "pickup": "\"...\"",
+    "meta": [],
+    "description": [
+      "While held, restock boxes will always spawn in item rooms"
+    ]
+  },
+  "Locust of War": {
+    "name": "Locust of War",
+    "pickup": "\"I Bring Wrath\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this trinket by defeating Isaac in the Cathedral as Apollyon.",
+    "description": [
+      "Upon entering a room with enemies, spawns a Red Locust which detonates upon impact with enemies, dealing double tear damage for the impact of the Locust and 60 damage for the explosion",
+      "Can be dangerous as the fly will target the nearest enemy, which can be close enough to catch Isaac in its blast radius"
+    ]
+  },
+  "Locust of Pestilence": {
+    "name": "Locust of Pestilence",
+    "pickup": "\"I Bring Pestilence\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this item by beating Satan with Apollyon.",
+    "description": [
+      "At the start of each new hostile room you spawn a green attack fly, which will target a nearby enemy, deal double your tear damage and then poison them"
+    ]
+  },
+  "Locust of Famine": {
+    "name": "Locust of Famine",
+    "pickup": "\"I bring Famine\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this trinket by defeating ??? in The Chest as Apollyon.",
+    "description": [
+      "At the start of each new hostile room you spawn a yellow attack fly, which will target a nearby enemy, deal double your tear damage and apply a slowing effect to it"
+    ]
+  },
+  "Locust of Death": {
+    "name": "Locust of Death",
+    "pickup": "\"I bring Death\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this trinket by defeating The Lamb as Apollyon.",
+    "description": [
+      "Upon entering a room with enemies, spawns a Black Locust that deals quadruple Isaac's damage, applied as two hits of double damage."
+    ]
+  },
+  "Locust of Conquest": {
+    "name": "Locust of Conquest",
+    "pickup": "\"I Bring Conquest\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this trinket by defeating Boss Rush as Apollyon.",
+    "description": [
+      "At the start of each new hostile room you spawn 2-5 white attack flies, which will target a nearby enemy and deal double your tear damage to it"
+    ]
+  },
+  "Bat Wing": {
+    "name": "Bat Wing",
+    "pickup": "\"They Are Growing...\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this trinket by defeating Greedier Mode with Azazel.",
+    "description": [
+      "When killing an enemy, you have a very small chance to gain the ability to fly for the rest of the room."
+    ]
+  },
+  "Stem Cell": {
+    "name": "Stem Cell",
+    "pickup": "\"Regen!\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this trinket by defeating Greedier Mode with Samson.",
+    "description": [
+      "Heals you for 1/2 a red heart after travelling down to the next floor"
+    ]
+  },
+  "Hairpin": {
+    "name": "Hairpin",
+    "pickup": "\"Poke that power outlet! Bosses charge you\"",
+    "meta": [],
+    "description": [
+      "Fully recharges your active item at the start of each boss fight",
+      "Added as part of the Afterbirth+ Booster Pack #1 and based on the Steam Workshop mod created by Zaratus"
+    ]
+  },
+  "Wooden Cross": {
+    "name": "Wooden Cross",
+    "pickup": "\"My faith protects me\"",
+    "meta": [],
+    "description": [
+      "Gives you the Holy Mantle shield effect at the start of every new floor, which protects you from the next hit of damage you take",
+      "Does not recharge until the start of the next floor",
+      "Added as part of the Afterbirth+ Booster Pack #1 and based on the Steam Workshop mod created by Ep and Mills"
+    ]
+  },
+  "Butter!": {
+    "name": "Butter!",
+    "pickup": "\"Can't hold it!\"",
+    "meta": [],
+    "description": [
+      "Using your active item while holding this trinket will drop it back on a pedestal on the ground",
+      "Also after taking damage, you have a very small chance to drop one of your passive items",
+      "One-time use active items will be consumed and not dropped",
+      "Added as part of the Afterbirth+ Booster Pack #1 and based on the Steam Workshop mod created by MarkusLeben and iguesti"
+    ]
+  },
+  "Filigree Feather": {
+    "name": "Filigree Feather",
+    "pickup": "\"Angelic spoils!\"",
+    "meta": [],
+    "description": [
+      "Holding this trinket will cause the Angel mini bosses to drop normal items instead of Key Pieces",
+      "Added as part of the Afterbirth+ Booster Pack #2, designed by Edmund McMillen"
+    ]
+  },
+  "Door Stop": {
+    "name": "Door Stop",
+    "pickup": "\"Hold the door!\"",
+    "meta": [],
+    "description": [
+      "While held, the last door Isaac went through stays open, allowing him to leave the room even if enemies are in it",
+      "This trinket works on boss rooms (except Ultra Greed) and devil rooms containing Krampus, allowing you to exit out mid-fight"
+    ]
+  },
+  "Extension Cord": {
+    "name": "Extension Cord",
+    "pickup": "\"Charged friends\"",
+    "meta": [],
+    "description": [
+      "After being picked up, a yellow laser chain now flows through Isaac's familiars.",
+      "Added as part of the Afterbirth+ Booster Pack #4 and based on the Steam Workshop mod created by Strawrat and Aczom"
+    ]
+  },
+  "Rotten Penny": {
+    "name": "Rotten Penny",
+    "pickup": "\"Wealth of flies\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this trinket by having a lot of blue flies at once.",
+    "description": [
+      "While held, spawns +1 friendly blue fly every time you pick up a coin.",
+      "Added as part of the Afterbirth+ Booster Pack #5. Based on the Steam Workshop mod created by Eufuu"
+    ]
+  },
+  "Baby-Bender": {
+    "name": "Baby-Bender",
+    "pickup": "\"Feed them magic!\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this item by having two items or effects that grant homing shots at once (e.g. Spoon Bender, Telepathy for Dummies, I - The Magician).",
+    "description": [
+      "While held this trinket gives your familiars homing shots.",
+      "Added as part of the Afterbirth+ Booster Pack #5. Based on the Steam Workshop mod created by Ink Tears"
+    ]
+  },
+  "Finger Bone": {
+    "name": "Finger Bone",
+    "pickup": "\"It looks brittle\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this trinket by defeating Ultra Greed as The Forgotten.",
+    "description": [
+      "While held, gives you a small chance to gain a bone heart everytime you take damage.",
+      "Added as part of the Afterbirth+ Booster Pack #5"
+    ]
+  }
+}

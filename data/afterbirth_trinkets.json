@@ -1,0 +1,258 @@
+{
+  "Shiny Rock": {
+    "name": "Shiny Rock",
+    "pickup": "\"It shines for it's brothers\"",
+    "meta": [],
+    "description": [
+      "While held, tinted rocks and rocks with a crawlspace below them will flash white every 10 seconds."
+    ]
+  },
+  "Safety Scissors": {
+    "name": "Safety Scissors",
+    "pickup": "\"Fuse cutter\"",
+    "meta": [],
+    "description": [
+      "Turns all troll bombs into bombs which you can pick up and use.",
+      "Super Troll bombs turn into 1+1 free double bomb pickups."
+    ]
+  },
+  "Rainbow Worm": {
+    "name": "Rainbow Worm",
+    "pickup": "\"Bleep bloop blop\"",
+    "meta": [],
+    "description": [
+      "Gives your tears a random worm effect every few seconds.",
+      "The possible tear effects include: Whip Worm, Ring Worm, Wiggle Worm, Flat Worm, Hook Worm, Pulse Worm, Tape Worm and Lazy Worm"
+    ]
+  },
+  "Tape Worm": {
+    "name": "Tape Worm",
+    "pickup": "\"Floooooooooop!\"",
+    "meta": [],
+    "description": [
+      "While held, Tape Worm doubles your range stat and halves your tear height stat."
+    ]
+  },
+  "Lazy Worm": {
+    "name": "Lazy Worm",
+    "pickup": "\"Pft\"",
+    "meta": [],
+    "description": [
+      "-0.4 Shot Speed Down.",
+      "+4.0 Range Up.",
+      "+2.0 Tear Height."
+    ]
+  },
+  "Cracked Dice": {
+    "name": "Cracked Dice",
+    "pickup": "\"You feel cursed... kinda.\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this item by beating Greed Mode with ???.",
+    "description": [
+      "Every time you get hit, you have a chance to activate the D6, D20, D8 or D12 effect."
+    ]
+  },
+  "Super Magnet": {
+    "name": "Super Magnet",
+    "pickup": "\"It pulls\"",
+    "meta": [],
+    "description": [
+      "While held this trinket causes all pickups and enemies to move slowly towards you.",
+      "Will also attract the Mom's Foot and Ultra Greed door entities."
+    ]
+  },
+  "Faded Polaroid": {
+    "name": "Faded Polaroid",
+    "pickup": "\"You feel faded\"",
+    "meta": [],
+    "description": [
+      "Randomly Isaac will gain a camouflage for a few seconds and all enemies in the current room will have a confused status effect applied to them."
+    ]
+  },
+  "Louse": {
+    "name": "Louse",
+    "pickup": "\"Itchy, tasty...\"",
+    "meta": [],
+    "description": [
+      "Gives a small chance to spawn a friendly attack spider while in a hostile room with enemies."
+    ]
+  },
+  "Bob's Bladder": {
+    "name": "Bob's Bladder",
+    "pickup": "\"Creepy bombs\"",
+    "meta": [],
+    "description": [
+      "Leaves a pool of green creep under all bombs you place, which damages enemies that walk over it."
+    ]
+  },
+  "Watch Battery": {
+    "name": "Watch Battery",
+    "pickup": "\"Lil charge\"",
+    "meta": [],
+    "description": [
+      "Gives you an increased chance of finding battery consumables.",
+      "Has a chance to add an extra charge to your active item upon completing a room."
+    ]
+  },
+  "Blasting Cap": {
+    "name": "Blasting Cap",
+    "pickup": "\"Pop! Pop!\"",
+    "meta": [],
+    "description": [
+      "Exploding bombs now have a chance to drop another bomb that you can pick up."
+    ]
+  },
+  "Stud Finder": {
+    "name": "Stud Finder",
+    "pickup": "\"The ground below feels hollow...\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this trinket by beating Challenge #27 (Brains).",
+    "description": [
+      "Higher chance to find crawl spaces when exploding rocks."
+    ]
+  },
+  "Error": {
+    "name": "Error",
+    "pickup": "\"Effect not found?\"",
+    "meta": [],
+    "description": [
+      "Gives a different trinket effect per room, randomly choosing between any of the other available trinkets in the game.",
+      "Each room is locked to a specific trinket effect, meaning if you exit and re-enter a room, that specific room will always have the same effect.\n      "
+    ]
+  },
+  "Poker Chip": {
+    "name": "Poker Chip",
+    "pickup": "\"It's double down time!\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this trinket by beating Challenge #26 (I Rule).",
+    "description": [
+      "Chests now have a 50/50 chance to either pay out with extra consumables or nothing/an enemy."
+    ]
+  },
+  "Blister": {
+    "name": "Blister",
+    "pickup": "\"Bounce back!\"",
+    "meta": [],
+    "description": [
+      "Tears have a stronger knockback effect while this trinket is held"
+    ]
+  },
+  "Second Hand": {
+    "name": "Second Hand",
+    "pickup": "\"Extended stat effect time\"",
+    "meta": [],
+    "description": [
+      "Increases the time that status effects stay on enemies. e.g. With poison effects, the damage over time poison will last for much longer.\n      "
+    ]
+  },
+  "Endless Nameless": {
+    "name": "Endless Nameless",
+    "pickup": "\"I'm stuck in a loop...\"",
+    "meta": [],
+    "description": [
+      "While held there is a small chance when using a tarot card or pill that a copy of it will be dropped on the floor next to you."
+    ]
+  },
+  "Black Feather": {
+    "name": "Black Feather",
+    "pickup": "\"With darkness comes power\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this item by beating Greed Mode with Eve.",
+    "description": [
+      "+0.2 Damage Up for each 'evil' item you have.",
+      "Items classed as evil in this case are Black Candle, Ceremonial Robes, Abaddon, Goat Head, Match Book, Missing Page 2, Safety Pin."
+    ]
+  },
+  "Blind Rage": {
+    "name": "Blind Rage",
+    "pickup": "\"Blind to damage\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this item by beating Blue Womb (Hush) with Samson.",
+    "description": [
+      "Invincibility lasts longer after getting hit (Increased i-frames)",
+      "This makes it possible to use the Blood Donation machine twice from one hit of damage."
+    ]
+  },
+  "Golden Horse Shoe": {
+    "name": "Golden Horse Shoe",
+    "pickup": "\"Feel lucky?\"",
+    "meta": [],
+    "description": [
+      "+15% chance to get a double item room to spawn on the next floor.",
+      "If the effect activates, two items spawn in your item room, however only one can be taken (Same effect as the More Options item)",
+      "The chance doubles to +30% with the effect from Mom's Box."
+    ]
+  },
+  "Store Key": {
+    "name": "Store Key",
+    "pickup": "\"Stores are open\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this trinket by donating 666 coins to the Greed Donation Machine.",
+    "description": [
+      "Automatically opens all shop room doors for free."
+    ]
+  },
+  "Rib of Greed": {
+    "name": "Rib of Greed",
+    "pickup": "\"Feels greedy\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this trinket by beating Ultra Greed with Keeper.",
+    "description": [
+      "Forces the Greed and Super Greed mini bosses to no longer appear in shops or secret rooms.",
+      "Holding Rib of Greed increase your chance to receive coin drops."
+    ]
+  },
+  "Karma": {
+    "name": "Karma",
+    "pickup": "\"Karma up\"",
+    "meta": [],
+    "unlock": "UNLOCK: Unlock this item by beating The Lamb boss with Keeper.",
+    "description": [
+      "Donating to a Donation Machine has a chance to heal Isaac for a full red heart or spawn a Beggar."
+    ]
+  },
+  "Lil Larva": {
+    "name": "Lil Larva",
+    "pickup": "\"the poop is moving...\"",
+    "meta": [],
+    "description": [
+      "Destroying poops now gives you a blue fly"
+    ]
+  },
+  "Mom's Locket": {
+    "name": "Mom's Locket",
+    "pickup": "\"you feel her love\"",
+    "meta": [],
+    "description": [
+      "While held, you heal for half a red heart every time you use a key to open a door or golden chest.",
+      "Changes all half red hearts into full hearts."
+    ]
+  },
+  "NO!": {
+    "name": "NO!",
+    "pickup": "\"Never again!\"",
+    "meta": [],
+    "description": [
+      "While this trinket is held you have a significantly lower chance to find spacebar/active items.",
+      "It will cause passive items to spawn except when the game cannot generate any more passive items and will then instead choose spacebar/active items.",
+      "Some hard coded spacebar items from bosses and mini-bosses (i.e. Krampus Head) can still spawn.",
+      "Bible drops caused by the Rosary item are not prevented by this trinket."
+    ]
+  },
+  "Child Leash": {
+    "name": "Child Leash",
+    "pickup": "\"Keep your friends close...\"",
+    "meta": [],
+    "description": [
+      "Causes your familiars to stay closer to each other."
+    ]
+  },
+  "Brown Cap": {
+    "name": "Brown Cap",
+    "pickup": "\"Fartoom!\"",
+    "meta": [],
+    "description": [
+      "Poop in the environment will now explode when destroyed."
+    ]
+  }
+}
